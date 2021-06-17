@@ -155,7 +155,7 @@ const IndexPage = () => (
           <ul className="actions">
             <li>
               <a href="/#" className="button" linkto="Elements.js">
-                 <Link to="/Elements">
+                 <Link to="/Members">
              Browse All
             </Link>
               </a>
