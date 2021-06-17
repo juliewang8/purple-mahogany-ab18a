@@ -152,7 +152,7 @@ const IndexPage = () => (
           </section>
           <ul className="actions">
             <li>
-              <a href="/#" className="button" linkto="">
+              <a href="/#" className="button" linkto="Elements.js">
                 Browse All
               </a>
             </li>
