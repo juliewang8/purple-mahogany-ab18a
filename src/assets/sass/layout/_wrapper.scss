@@ -120,10 +120,10 @@
 }
 
 .wrapper {
-  background-color: #635e4d;
+  background-color: _palette(bg);
   margin: _size(wrapper-edges, large) 0;
   position: relative;
-  @include wrapper-edges-color(#635e4d);
+  @include wrapper-edges-color(_palette(bg));
 
   &:before,
   &:after {
