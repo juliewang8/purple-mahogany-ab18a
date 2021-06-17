@@ -34,11 +34,17 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Why mustard seed?</h2>
             <p>
-              Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras
-              turpis ante, nullam sit amet turpis non, sollicitudin posuere
-              urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim
-              dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla
-              cursus.
+              The mustard seed, which is the smallest of all seeds, is mentioned several times throughout the Bible.
+​
+Matthew 17:20
+So Jesus said to them, "Because of your unbelief; for assuredly, I say to you, if you have faith as a mustard seed, you will say to this mountain, 'Move from here to there,' and it will move; and nothing will be impossible for you.
+​
+Jesus Christ, our Lord and Savior, tells His children that even with just a tiny amount of faith, great things that seem impossible can be possible. Christ also mentions the mustard seed in the Parable of the Mustard Seed.
+​
+Matthew 13:31-32
+Another parable He put forth to them, saying: "The kingdom of heaven is like a mustard seed, which a man took and sowed in his field, which indeed is the least of all seeds; but when it is grown it is greater than the herbs and becomes a tree, so that the birds of the air come and nest in its branches."
+​
+Through parables, Jesus imparted truth using stories that were relatable to the people. The sower is Jesus Christ himself, sowing the mustard seed, which represents the Gospel. Although at first the seed is very tiny, it can grow into a large shrub about 10 feet high. Likewise, the Gospel starts out very small but can grow to reach millions of people throughout the world, providing refuge to the birds in its branches.
             </p>
             <a href="/#" className="special">
               Learn more
