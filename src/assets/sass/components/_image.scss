@@ -13,7 +13,7 @@
 		position: relative;
 
 		img {
-			border-radius: _size(border-radius);
+			border-radius: _size(border-radius) - 10;
 			display: block;
 		}
 
