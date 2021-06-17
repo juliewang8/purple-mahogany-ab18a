@@ -23,7 +23,7 @@
 			}
 
 			.image {
-				border-radius: 0 0 0 0;
+				border-radius: _size(border-radius) _size(border-radius) 0 0;
 				display: block;
 				margin-bottom: 1.75em;
 				margin-left: -1.75em;
@@ -32,7 +32,7 @@
 				width: calc(100% + #{3.5em});
 
 				img {
-					border-radius: 0 0 0 0;
+					border-radius: _size(border-radius) _size(border-radius) 0 0;
 					width: 100%;
 				}
 			}
