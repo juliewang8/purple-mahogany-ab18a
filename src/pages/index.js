@@ -160,8 +160,8 @@ Through parables, Jesus imparted truth using stories that were relatable to the 
           </section>
           <ul className="actions">
             <li>
-              <a href="/#" className="button" linkto="/Members.js">
-                 <Link to="/Members">
+              <a href="/#" className="button">
+                 <Link to="/Members.js">
              Browse All
             </Link>
               </a>
