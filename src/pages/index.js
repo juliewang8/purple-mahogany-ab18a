@@ -89,7 +89,7 @@ Through parables, Jesus imparted truth using stories that were relatable to the 
               cursus.
             </p>
             <a href="/#" className="special">
-              Listen
+              click to listen
             </a>
           </div>
         </div>
