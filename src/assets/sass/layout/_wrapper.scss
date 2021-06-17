@@ -174,8 +174,8 @@
   }
 
   &.spotlight {
-    @include wrapper-edges-color(#7a87cc);
-    background-color: #7a87cc;
+    @include wrapper-edges-color(#6771a8);
+    background-color: #6771a8;
 
     .inner {
       @include vendor('display', 'flex');
@@ -214,7 +214,7 @@
 
     @for $i from 2 through _misc(max-wrapper-styles) {
       $j: 3 * ($i - 1);
-      $color: saturate(darken(#7a87cc, $j), $j * 0.5);
+      $color: saturate(darken(#6771a8, $j), $j * 0.5);
 
       &.style#{$i} {
         background-color: $color;
