@@ -34,8 +34,8 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Why mustard seed?</h2>
             <p>
-              The mustard seed, which is the smallest of all seeds, is mentioned several times throughout the Bible.
-        
+              The mustard seed, which is the smallest of all seeds, is mentioned several times throughout the Bible.</p>
+        <p>
 Matthew 17:20
 So Jesus said to them, "Because of your unbelief; for assuredly, I say to you, if you have faith as a mustard seed, you will say to this mountain, 'Move from here to there,' and it will move; and nothing will be impossible for you.
 ​
