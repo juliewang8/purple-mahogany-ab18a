@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Mustard Seed A Cappella', // <title>
-  manifestName: 'SolidState',
+  manifestName: 'MustardSeed',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#f5cb42',
