@@ -7,7 +7,7 @@
 /* Image */
 
 	.image {
-		border-radius: _size(border-radius);
+		border-radius: _size(border-radius) - 10;
 		border: 0;
 		display: inline-block;
 		position: relative;
