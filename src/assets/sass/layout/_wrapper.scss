@@ -174,8 +174,8 @@
   }
 
   &.spotlight {
-    @include wrapper-edges-color(#d19d34);
-    background-color: #d19d34;
+    @include wrapper-edges-color(#ad8a44);
+    background-color: #ad8a44;
 
     .inner {
       @include vendor('display', 'flex');
