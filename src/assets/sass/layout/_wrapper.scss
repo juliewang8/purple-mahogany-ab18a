@@ -123,7 +123,7 @@
   background-color: #e3b049;
   margin: _size(wrapper-edges, large) 0;
   position: relative;
-  @include wrapper-edges-color(_palette(bg));
+  @include wrapper-edges-color(#e3b049);
 
   &:before,
   &:after {
