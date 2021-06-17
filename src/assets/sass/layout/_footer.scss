@@ -59,7 +59,7 @@
   }
 
   @include breakpoint('<=large') {
-    background-color: _palette(bg);
+    background-color: #f5bf42;
 
     background-image: linear-gradient(
         to top,
