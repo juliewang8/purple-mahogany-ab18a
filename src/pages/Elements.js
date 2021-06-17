@@ -309,16 +309,16 @@ const IndexPage = () => <Layout fullMenu>
 						<h4>Fit</h4>
 						<div className="box alt">
 							<div className="row gtr-uniform">
-								<div className="col-12"><span className="image fit"><img src={pic8} alt="" /></span></div>
-								<div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span></div>
-								<div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span></div>
-								<div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span></div>
-								<div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span></div>
-								<div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span></div>
-								<div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span></div>
-								<div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span></div>
-								<div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span></div>
-								<div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span></div>
+								<div className="col-12"><span className="image fit"><img src={pic8} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><<h3>Amanda Kong</h3>/div>
+								<div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><<h3>Amanda Kong</h3>/div>
 							</div>
 						</div>
 						<h4>Left &amp; Right</h4>
