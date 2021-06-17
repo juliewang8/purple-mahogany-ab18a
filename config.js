@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'MUSTARD SEED',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  subHeading: 'Boston University\'\s premier Christian a cappella group',
   // social
   socialLinks: [
     {
