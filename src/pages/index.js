@@ -59,7 +59,7 @@ Through parables, Jesus imparted truth using stories that were relatable to the 
             <img src={pic2} alt="" />
           </a>
           <div className="content">
-            <h2 className="major">Tempus adipiscing</h2>
+            <h2 className="major">We have an album!</h2>
             <p>
               Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras
               turpis ante, nullam sit amet turpis non, sollicitudin posuere
