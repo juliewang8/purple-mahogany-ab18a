@@ -155,11 +155,7 @@ const IndexPage = () => (
           <ul className="actions">
             <li>
               <a href="/#" className="button" linkto="Elements.js">
-                 <Link
-              onClick={e => {
-                onMenuToggle();
-              }}
-              to="/Elements"
+                 <Link to="/Elements"
             >
              Browse All
             </Link>
