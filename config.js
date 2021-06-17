@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Mustard Seed', // <title>
+  siteTitle: 'Mustard Seed A Cappella', // <title>
   manifestName: 'SolidState',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
