@@ -10,7 +10,7 @@ import pic5 from '../assets/images/pic05.jpg';
 import pic6 from '../assets/images/pic06.jpg';
 import pic7 from '../assets/images/pic07.jpg';
 
-import Link from gatsby
+import { Link } from 'gatsby';
 
 import config from '../../config';
 const IndexPage = () => (
