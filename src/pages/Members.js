@@ -33,7 +33,7 @@ const IndexPage = () => (
             </div>
 
             <div className="inner">
-            <h2 className="major"> </h2>
+            <h2 className="minor"> </h2>
             <div className="row gtr-uniform">
                         <div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>Amanda Kong</h3></div>
                         <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
