@@ -67,7 +67,7 @@ Through parables, Jesus imparted truth using stories that were relatable to the 
               dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla
               cursus.
             </p>
-            <a href="/#" className="special">
+            <a href="/Members" className="special">
               Read more
             </a>
           </div>
