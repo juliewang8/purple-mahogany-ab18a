@@ -33,7 +33,7 @@ class PageLayout extends Component {
     return (
       <StaticQuery
         query={graphql`
-          query SiteTitleQuery2 {
+          query SiteTitleQuery {
             site {
               siteMetadata {
                 title
