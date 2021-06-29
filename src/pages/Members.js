@@ -31,6 +31,10 @@ const IndexPage = () => (
                         <div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Amanda Kong</h3></div>
                         <div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>Amanda Kong</h3></div>
             </div>
+
+            <div className="inner">
+           
+        </div>
         </div>
           <h2 className="major">Alumni</h2>
           <p>
