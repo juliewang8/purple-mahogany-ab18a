@@ -47,7 +47,7 @@ Another parable He put forth to them, saying: "The kingdom of heaven is like a m
 ​
 Through parables, Jesus imparted truth using stories that were relatable to the people. The sower is Jesus Christ himself, sowing the mustard seed, which represents the Gospel. Although at first the seed is very tiny, it can grow into a large shrub about 10 feet high. Likewise, the Gospel starts out very small but can grow to reach millions of people throughout the world, providing refuge to the birds in its branches.
             </p>
-            <a href="/#" className="special">
+            <a href="/LearnMore" className="special">
               Learn more
             </a>
           </div>
