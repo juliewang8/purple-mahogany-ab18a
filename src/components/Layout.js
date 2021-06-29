@@ -4,7 +4,6 @@ import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 
 import '../assets/sass/main.scss';
-import Footer from './Footer';
 import SideBar from './Sidebar';
 
 class Layout extends Component {
@@ -58,7 +57,6 @@ class Layout extends Component {
               <div id="page-wrapper">
                 <SideBar fullMenu={fullMenu} />
                 {children}
-                <Footer />
               </div>
             </div>
           </>
