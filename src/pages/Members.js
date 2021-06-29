@@ -17,18 +17,19 @@ const IndexPage = () => (
       <div className="wrapper">
         <div className="inner">
           <h3 className="major">Current members</h3>
-          <p>
-            Morbi mattis mi consectetur tortor elementum, varius pellentesque
-            velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac
-            scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis
-            lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo.
-            Maecenas sagittis felis ac sagittis semper. Curabitur purus leo
-            donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada
-            fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo.
-            Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci
-            fringilla tincidunt. Aliquam eleifend ligula non velit accumsan
-            cursus. Etiam ut gravida sapien.
-          </p>
+        <div className="box alt">
+							<div className="row gtr-uniform">
+								<div className="col-4"><span className="image fit"><img src={'https://i.imgur.com/kAz2mcZ.jpeg'} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>Amanda Kong</h3></div>
+							</div>
+						</div>
 
           <p>
             Vestibulum ultrices risus velit, sit amet blandit massa auctor sit
