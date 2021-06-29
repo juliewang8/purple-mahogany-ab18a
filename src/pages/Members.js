@@ -44,41 +44,17 @@ const IndexPage = () => (
         </div>
         </div>
           <h2 className="major">Alumni</h2>
-          <p>
-            Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
-            Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
-            egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus
-            in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.
-          </p>
-
-          <section className="features">
-            <article>
-              <a href="/#" className="image">
-                <img src={pic4} alt="" />
-              </a>
-              <h3 className="major">Sed feugiat lorem</h3>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
-              </p>
-              <a href="/#" className="special">
-                Learn more
-              </a>
-            </article>
-            <article>
-              <a href="/#" className="image">
-                <img src={pic5} alt="" />
-              </a>
-              <h3 className="major">Nisl placerat</h3>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
-              </p>
-              <a href="/#" className="special">
-                Learn more
-              </a>
-            </article>
-          </section>
+            <div className="inner">
+            <h2 className="minor"> </h2>
+            <div className="row gtr-uniform aln-center">
+                        <div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>member</h3></div>
+                        <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>member</h3></div>
+                        <div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>member</h3></div>
+                        <div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>member</h3></div>
+                        <div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>member</h3></div>
+                        <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>member</h3></div>
+                        <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>member</h3></div>
+            </div>
         </div>
       </div>
     </section>
