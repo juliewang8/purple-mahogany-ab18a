@@ -2,7 +2,7 @@ import React from 'react';
 import config from '../../config';
 export default function SmallFooter() {
   return (
-    <section id="small_footer">
+    <section id="footer">
       <div className="inner">
         <ul className="contact">
           <li className="fa-home">{config.address}</li>
