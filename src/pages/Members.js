@@ -43,7 +43,7 @@ const IndexPage = () => (
            
         </div>
         </div>
-        
+
           <h2 className="major">Alumni</h2>
             <div className="inner">
             <h2 className="minor"> </h2>
@@ -57,6 +57,7 @@ const IndexPage = () => (
                         <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>member</h3></div>
             </div>
         </div>
+      </div>
       </div>
     </section>
     <SmallFooter />
