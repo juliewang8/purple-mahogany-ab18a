@@ -4,7 +4,7 @@ export default function SmallFooter() {
   return (
     <section id="footer">
       <div className="inner">
-      <ul className="icons">
+      <ul className="contact">
         <li><a href="/#" className="icon fa-twitter"><span className="label">Twitter</span></a></li>
         <li><a href="/#" className="icon fa-facebook"><span className="label">Facebook</span></a></li>
         <li><a href="/#" className="icon fa-instagram"><span className="label">Instagram</span></a></li>
