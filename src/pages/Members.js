@@ -21,7 +21,7 @@ const IndexPage = () => (
           <h3 className="major">Current members</h3>
              <div className="box alt">
 							<div className="row gtr-uniform">
-								<div className="col-4"><span className="image fit"><img src={'https://i.imgur.com/kAz2mcZ.jpeg'} alt="" /></span><h3>Amanda Kong</h3></div>
+								<div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>Amanda Kong</h3></div>
 								<div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
 								<div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Amanda Kong</h3></div>
 								<div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Amanda Kong</h3></div>
