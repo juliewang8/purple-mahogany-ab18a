@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
+import Footer from '../components/Footer';
 
 import pic1 from '../assets/images/pic01.jpg';
 import pic2 from '../assets/images/pic02.jpg';
@@ -168,6 +169,7 @@ Through parables, Jesus imparted truth using stories that were relatable to the 
         </div>
       </section>
     </section>
+    <Footer />
   </Layout>
 );
 
