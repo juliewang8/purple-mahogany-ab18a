@@ -68,8 +68,8 @@ class PageLayout extends Component {
   }
 }
 
-Layout.propTypes = {
+PageLayout.propTypes = {
   children: PropTypes.node.isRequired,
 };
 
-export default LayoutPage;
+export default PageLayout;
