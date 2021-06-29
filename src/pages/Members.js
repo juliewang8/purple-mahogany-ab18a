@@ -9,7 +9,7 @@ const IndexPage = () => (
     <section id="wrapper">
       <header>
         <div className="inner">
-          <h2>Meet the Seeds and alumni!</h2>
+          <h2>Meet the Seeds</h2>
           <p>Phasellus non pulvinar erat. Fusce tincidunt nisl eget ipsum.</p>
         </div>
       </header>
