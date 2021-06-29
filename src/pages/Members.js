@@ -17,7 +17,7 @@ const IndexPage = () => (
       <div className="wrapper">
         <div className="inner">
           <h3 className="major">Current members</h3>
-        <div className="box alt">
+             <div className="box alt">
 							<div className="row gtr-uniform">
 								<div className="col-4"><span className="image fit"><img src={'https://i.imgur.com/kAz2mcZ.jpeg'} alt="" /></span><h3>Amanda Kong</h3></div>
 								<div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
@@ -30,18 +30,6 @@ const IndexPage = () => (
 								<div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>Amanda Kong</h3></div>
 							</div>
 						</div>
-
-          <p>
-            Vestibulum ultrices risus velit, sit amet blandit massa auctor sit
-            amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis
-            id vel diam. Praesent sit amet posuere risus, eu faucibus lectus.
-            Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam.
-            Proin nec commodo, vel scelerisque nisi scelerisque. Suspendisse id
-            quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor
-            consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec
-            felis elementum varius.
-          </p>
-
           <h3 className="major">Alumni</h3>
           <p>
             Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
