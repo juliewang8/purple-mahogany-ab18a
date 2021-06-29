@@ -4,6 +4,8 @@ import Layout from '../components/Layout';
 import SmallFooter from '../components/SmallFooter';
 import pic4 from '../assets/images/pic04.jpg';
 import pic5 from '../assets/images/pic05.jpg';
+import pic6 from '../assets/images/pic06.jpg';
+import pic7 from '../assets/images/pic07.jpg';
 
 const IndexPage = () => (
   <Layout fullMenu>
