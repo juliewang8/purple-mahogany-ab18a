@@ -4,7 +4,7 @@ export default function SmallFooter() {
   return (
     <section id="footer">
       <div className="inner">
-      <p>Stay in the loop!</p>
+      <h3>Stay in the loop!</p>
       <ul className="icons">
         <li><a href="/#" className="icon fa-twitter"><span className="label">Twitter</span></a></li>
         <li><a href="/#" className="icon fa-facebook"><span className="label">Facebook</span></a></li>
