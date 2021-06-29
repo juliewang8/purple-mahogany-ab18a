@@ -2,7 +2,7 @@ import React from 'react';
 import config from '../../config';
 export default function SmallFooter() {
   return (
-    <section id="footer">
+    <section id="small_footer">
       <div className="inner">
         <h2 className="major">Get in touch</h2>
         <p>
