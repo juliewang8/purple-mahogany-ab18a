@@ -18,7 +18,7 @@ const IndexPage = () => (
 
       <div className="wrapper">
         <div className="inner">
-          <h3 className="major">Current members</h3>
+          <h2 className="major">Current members</h2>
              <div className="box alt">
 							<div className="row gtr-uniform">
 								<div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h4>Amanda Kong</h4></div>
