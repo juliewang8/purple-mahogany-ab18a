@@ -5,8 +5,8 @@ export default function SmallFooter() {
     <section id="footer">
       <div className="inner">
         <ul className="contact">
-          <li className="fa-home">""</li>
-          <li className="fa-phone"></li>
+          <li className="fa-home"> </li>
+          <li className="fa-phone"> </li>
 
           {config.socialLinks.map(social => {
             const { icon, url } = social;
