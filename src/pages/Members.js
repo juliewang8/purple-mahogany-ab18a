@@ -1,11 +1,11 @@
 import React from 'react';
 
-import PageLayout from '../components/PageLayout';
+import Layout from '../components/Layout';
 import pic4 from '../assets/images/pic04.jpg';
 import pic5 from '../assets/images/pic05.jpg';
 
 const IndexPage = () => (
-  <PageLayout fullMenu>
+  <Layout fullMenu>
     <section id="wrapper">
       <header>
         <div className="inner">
@@ -80,7 +80,7 @@ const IndexPage = () => (
         </div>
       </div>
     </section>
-  </PageLayout>
+  </Layout>
 );
 
 export default IndexPage;
