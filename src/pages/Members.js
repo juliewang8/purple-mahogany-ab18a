@@ -32,11 +32,11 @@ const IndexPage = () => (
             <div className="inner">
             <h2 className="minor"> </h2>
             <div className="row gtr-uniform aln-center">
-                        <div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>Amanda Kong</h3></div>
-                        <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
-                        <div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Amanda Kong</h3></div>
-                        <div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Amanda Kong</h3></div>
-                        <div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>Amanda Kong</h3></div>
+                        <div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>member</h3></div>
+                        <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>member</h3></div>
+                        <div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>member</h3></div>
+                        <div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>member</h3></div>
+                        <div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>member</h3></div>
                         <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
                         <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span><h3>Amanda Kong</h3></div>
             </div>
