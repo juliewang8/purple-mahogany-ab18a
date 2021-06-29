@@ -43,6 +43,7 @@ const IndexPage = () => (
            
         </div>
         </div>
+        
           <h2 className="major">Alumni</h2>
             <div className="inner">
             <h2 className="minor"> </h2>
