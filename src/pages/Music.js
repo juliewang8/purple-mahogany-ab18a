@@ -46,9 +46,9 @@ const IndexPage = () => (
               </a>
             </article>
           </section>
+                    <h3 className="major">Repertoire</h3>
         </div>
       </div>
-          <h3 className="major">Repertoire</h3>
     </section>
     <SmallFooter />
   </Layout>
