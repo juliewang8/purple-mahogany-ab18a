@@ -56,7 +56,7 @@ Through parables, Jesus imparted truth using stories that were relatable to the 
 
       <section id="two" className="wrapper alt spotlight style2">
         <div className="inner">
-          <a href="/#" className="image">
+          <a href="/Members" className="image">
             <img src={pic2} alt="" />
           </a>
           <div className="content">
