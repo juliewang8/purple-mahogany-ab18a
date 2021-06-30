@@ -23,7 +23,7 @@ const IndexPage = () => (
                     <div className="row gtr-uniform aln-center">
                         <div className="col-4"><span className="image fit"><img src={pic5} alt="" />
                         </span>
-                        <div className="image"
+                        <div className="image-overlay">
                         <h3 className="nopadding align-center">Jenna Riedl</h3><p className="align-center">PRESIDENT</p></div>
                         <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span
                         ><h3 className="nopadding align-center">Jeremy Yeung</h3><p className="align-center">VP / MUSICAL DIRECTOR</p></div>
