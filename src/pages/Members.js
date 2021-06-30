@@ -24,7 +24,7 @@ const IndexPage = () => (
                         <div className="col-4"><span className="image fit"><img src={pic5} alt="" className="image member"/>
                         </span>
                         <h2 className="nopadding align-center">Jenna Riedl</h2><p className="lesspadding align-center">PRESIDENT</p>
-                        <p className="nopadding">Jenna is a junior studying Painting, Art History, and statistics at Boston University. 
+                        <p className="nopadding">Jenna is a junior studying Painting, Art History, and Statistics at Boston University. 
                         On the rare occasions when she is not reading or making art, she can be found deep in the woods attempting to befriend squirrels.</p>
                         </div>
                         <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span
