@@ -62,7 +62,7 @@
         }
 
         &.member:hover {
-            backdrop-filter: blur(10px);
+           filter: blur(5px);
         }
 	}
 
