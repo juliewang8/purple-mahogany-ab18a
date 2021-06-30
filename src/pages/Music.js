@@ -61,6 +61,7 @@ const IndexPage = () => (
         </div>
       </div>
     </section>
+    <SmallFooter />
   </Layout>
 );
 
