@@ -43,10 +43,7 @@ const IndexPage = () => (
 
           <h3 className="major">send us a message</h3>
           <p>
-            Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
-            Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
-            egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus
-            in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.
+          blurb about business purposes, gigs, etc: bumseed@gmail.com
           </p>
 
           <section className="features">
