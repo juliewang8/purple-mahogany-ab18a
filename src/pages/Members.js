@@ -23,7 +23,7 @@ const IndexPage = () => (
                     <div className="row gtr-uniform aln-center">
                         <div className="col-4"><span className="image fit"><img src={pic5} alt="" className="image member"/>
                         </span>
-                        <h3 className="nopadding align-center">Jenna Riedl</h3><p className="lesspadding align-center">PRESIDENT</p>
+                        <h2 className="nopadding align-center">Jenna Riedl</h3><p className="lesspadding align-center">PRESIDENT</p>
                         <p className="nopadding">Jenna is a junior studying Painting, Art History, and statistics at Boston University. 
                         On the rare occasions when she is not reading or making art, she can be found deep in the woods attempting to befriend squirrels.</p>
                         </div>
