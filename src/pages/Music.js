@@ -11,7 +11,6 @@ const IndexPage = () => (
       <header>
         <div className="inner">
           <h2>Our music</h2>
-          <p>Phasellus non pulvinar erat. Fusce tincidunt nisl eget ipsum.</p>
         </div>
       </header>
 
