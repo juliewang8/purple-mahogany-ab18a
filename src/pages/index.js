@@ -29,7 +29,7 @@ const IndexPage = () => (
     <section id="wrapper">
       <section id="one" className="wrapper spotlight style1">
         <div className="inner">
-          <a href="/" className="image">
+          <a href="/LearnMore" className="image">
             <img src={pic1} alt="" />
           </a>
           <div className="content">
