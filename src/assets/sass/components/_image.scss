@@ -59,6 +59,8 @@
 		}
 
         &.member {
+            transition: filter blur(2px);
+
         }
 
         &.member:hover {
