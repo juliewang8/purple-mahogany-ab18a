@@ -50,7 +50,7 @@ const IndexPage = () => (
          <h3>Current</h3>
          rain <br/>
         i wanna know you <br/>
-        <br/>
+        how deep is your love<br/>
          <h3>Past</h3> <p>things to include in this section: title, original artist, soloist, arranger(???), and semester</p>
         </div>
       </div>
