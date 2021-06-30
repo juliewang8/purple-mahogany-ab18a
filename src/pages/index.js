@@ -62,11 +62,7 @@ Through parables, Jesus imparted truth using stories that were relatable to the 
           <div className="content">
             <h2 className="major">Meet the Seeds</h2>
             <p>
-              Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras
-              turpis ante, nullam sit amet turpis non, sollicitudin posuere
-              urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim
-              dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla
-              cursus.
+              not sure what to include here suggestions welcome lmao
             </p>
             <a href="/Members" className="special">
               Read more
@@ -83,11 +79,7 @@ Through parables, Jesus imparted truth using stories that were relatable to the 
           <div className="content">
             <h2 className="major">We have an album!</h2>
             <p>
-              Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras
-              turpis ante, nullam sit amet turpis non, sollicitudin posuere
-              urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim
-              dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla
-              cursus.
+              blurb about something something recorded album virtual collab w alumni something 
             </p>
             <a href="/Music" className="special">
               click to listen
