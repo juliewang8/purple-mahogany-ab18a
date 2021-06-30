@@ -24,7 +24,7 @@ const IndexPage = () => (
 
           <h3 className="major">Listen to our music</h3>
           <p>
-            here there will be links to our youtube virtual performances + any recent stuff, bigger events such as concerts will be in tabs/articles
+            here there will be links to our youtube virtual performances + any recent stuff, bigger past events such as concerts will be in tabs/articles
           </p>
 
           <section className="features">
