@@ -41,7 +41,7 @@ const IndexPage = () => (
             felis elementum varius.
           </p>
 
-          <h3 className="major">Vitae phasellus</h3>
+          <h3 className="major"></h3>
           <p>
             Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
             Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
