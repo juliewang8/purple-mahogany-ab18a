@@ -49,6 +49,7 @@ const IndexPage = () => (
         </div>
       </div>
     </section>
+    <h3 className="major">Listen to our music</h3>
     <SmallFooter />
   </Layout>
 );
