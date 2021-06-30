@@ -22,7 +22,7 @@ const IndexPage = () => (
            not sure what this is going to look like yet but links to our album!!
           </p>
 
-          <h3 className="major">Vitae phasellus</h3>
+          <h3 className="major">Listen to our music</h3>
           <p>
             Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
             Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
