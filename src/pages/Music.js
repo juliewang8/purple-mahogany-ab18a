@@ -24,10 +24,7 @@ const IndexPage = () => (
 
           <h3 className="major">Listen to our music</h3>
           <p>
-            Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
-            Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
-            egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus
-            in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.
+            here there will be links to our youtube virtual performances + any recent stuff, bigger events such as concerts will be in tabs/articles
           </p>
 
           <section className="features">
