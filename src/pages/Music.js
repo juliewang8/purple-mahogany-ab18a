@@ -19,7 +19,7 @@ const IndexPage = () => (
         <div className="inner">
           <h3 className="major">Mustard Seed Presents... metamorphosis!</h3>
           <p>
-           not sure what this is going to look like but links to our album!!
+           not sure what this is going to look like yet but links to our album!!
           </p>
 
           <h3 className="major">Vitae phasellus</h3>
