@@ -16,7 +16,7 @@ const IndexPage = () => (
 
       <div className="wrapper">
         <div className="inner">
-          <h3 className="major">keep up with our socials</h3>
+          <h3 className="major">keep up with our social media</h3>
           <p>include icons with social medias!!
           </p>
 
