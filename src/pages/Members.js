@@ -51,7 +51,7 @@ const IndexPage = () => (
         </div>
         </div>
 
-          <h2 className="major">Alumni</h2>
+          <h2 className="major align-center">Alumni</h2>
             <div className="inner">
             <div className="row gtr-uniform aln-center">
                         <div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span><h3>member</h3></div>
