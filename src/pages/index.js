@@ -102,7 +102,8 @@ Through parables, Jesus imparted truth using stories that were relatable to the 
           <p>
             haven't really finalized what i want on this page yet – i'm thinking we can use it as like
             a news page and we can include things like: auditions soon!! or: we just had a concert yay!!
-            and in the music page some of the bigger events would point back to a "news page" 
+            and in the music page some of the bigger events would point back to a "news page". and some of the 
+            concert/music stuff would also point back to our music page, etc etc
           </p>
           <section className="features">
             <article>
