@@ -49,7 +49,7 @@ const IndexPage = () => (
               <p>
               </p>
               <a href="/#" className="special">
-                Learn more
+                see more
               </a>
             </article>
           </section>
