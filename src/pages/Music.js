@@ -48,7 +48,7 @@ const IndexPage = () => (
           </section>
         </div>
       </div>
-          <h3 className="major">Listen to our music</h3>
+          <h3 className="major">Repertoire</h3>
     </section>
     <SmallFooter />
   </Layout>
