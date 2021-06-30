@@ -16,7 +16,7 @@ const IndexPage = () => (
 
       <div className="wrapper">
         <div className="inner">
-          <h3 className="major">Lorem ipsum dolor</h3>
+          <h3 className="major">keep up with our socials</h3>
           <p>
             Morbi mattis mi consectetur tortor elementum, varius pellentesque
             velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac
