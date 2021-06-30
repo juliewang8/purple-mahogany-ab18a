@@ -17,7 +17,7 @@ const IndexPage = () => (
 
       <div className="wrapper">
         <div className="inner">
-          <h3 className="major">Mustard Seed Presents... metamorphosis!</h3>
+          <h3 className="major">Mustard Seed Presents: metamorphosis!</h3>
           <p>
            not sure what this is going to look like yet but links to our album!!
           </p>
