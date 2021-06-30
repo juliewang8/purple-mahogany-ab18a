@@ -22,7 +22,7 @@ const IndexPage = () => (
              <div className="box alt">
                     <div className="row gtr-uniform aln-center">
                         <div className="col-4"><span className="image fit"><img src={pic5} alt="" /></span>
-                        <h3>Jenna Riedl</h3><p></p></div>
+                        <h3>Jenna Riedl</h3><p>President | Soprano</p></div>
                         <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span
                         ><h3>Jeremy Yeung</h3></div>
                         <div className="col-4"><span className="image fit"><img src={pic7} alt="" /></span><h3>Timothy Li</h3></div>
