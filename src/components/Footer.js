@@ -7,6 +7,7 @@ export default function Footer() {
         <h2 className="major">Get in touch</h2>
         <p>
           insert blurb about whether you have questions about auditions, wanna get to know us, etc, etc, shoot us an email!!!!
+          tbh i'm not sure if this actually works /sends an email yet LOL will have to figure it out
         </p>
         <form method="post" action="/#">
           <div className="fields">
