@@ -21,7 +21,7 @@ const IndexPage = () => (
            not sure what this is going to look like yet but links to our album!! spotify, apple music, youtube(???)
           </p>
 
-          <h3 className="major">Listen to our music</h3>
+          <h2 className="major">Listen to our music</h2>
           <p>
             here there will be links to our youtube virtual performances + any recent stuff (embedded/linked), bigger past events such as concerts will be in different articles
           </p>
