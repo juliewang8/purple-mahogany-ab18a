@@ -49,7 +49,7 @@ const IndexPage = () => (
          <h3 className="major">Repertoire</h3>
          <h4>Current</h4>
          rain <br/> i wanna know you <br/><br/>
-         <h4>Past</h4>
+         <h4>Past</h4> <p>things to include in this section: title, original artist, soloist, arranger(???), and year</p>
         </div>
       </div>
     </section>
