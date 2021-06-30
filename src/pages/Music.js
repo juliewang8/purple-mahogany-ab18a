@@ -33,12 +33,8 @@ const IndexPage = () => (
                 <img src={pic4} alt="" />
               </a>
               <h3 className="major">Spring 2021 Showcase</h3>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
-              </p>
               <a href="/#" className="special">
-                Learn more
+                See more
               </a>
             </article>
             <article>
@@ -46,10 +42,8 @@ const IndexPage = () => (
                 <img src={pic5} alt="" />
               </a>
               <h3 className="major">Fall 2019 Concert</h3>
-              <p>
-              </p>
               <a href="/#" className="special">
-                see more
+                See more
               </a>
             </article>
           </section>
