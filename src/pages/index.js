@@ -100,7 +100,9 @@ Through parables, Jesus imparted truth using stories that were relatable to the 
         <div className="inner">
           <h2 className="major">the latest happenings</h2>
           <p>
-            haven't really 
+            haven't really finalized what i want on this page yet – i'm thinking we can use it as like
+            a news page and we can include things like: auditions soon!! or: we just had a concert yay!!
+            and in the music page some of the bigger events would point back to a "news page" 
           </p>
           <section className="features">
             <article>
