@@ -26,7 +26,7 @@ const IndexPage = () => (
                         <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span
                         ><h3 className="nopadding align-center">Jeremy Yeung</h3><p className="align-center">VP / MUSICAL DIRECTOR</p></div>
                         <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span
-                        ><h3 className="nopadding align-center">Timothy Li</h3><p className="align-center">VP / MUSICAL DIRECTOR</p></div>
+                        ><h3 className="nopadding align-center">Timothy Li</h3><p className="align-center">Treasurer</p></div>
                                                 <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span
                         ><h3 className="nopadding align-center">Jeremy Yeung</h3><p className="align-center">VP / MUSICAL DIRECTOR</p></div>
                                                 <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span
