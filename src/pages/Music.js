@@ -54,6 +54,7 @@ const IndexPage = () => (
         hollow<br/>
         tbh don't remember if we had more heh <br/><br/>
          <h3>Past</h3> <p>things to include in this section: title, original artist, soloist, arranger(???), and semester</p>
+         <h2 className="major"></h2>
         </div>
       </div>
     </section>
