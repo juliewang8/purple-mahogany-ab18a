@@ -61,6 +61,9 @@
         &.member {
 
         }
+
+        &.member: hover {
+            opacity: 0;
+        }
 	}
 
-    
