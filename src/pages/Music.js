@@ -51,7 +51,8 @@ const IndexPage = () => (
          rain <br/>
         i wanna know you <br/>
         how deep is your love<br/>
-        
+        hollow<br/>
+        tbh don't remember if we had more heh <br/>
          <h3>Past</h3> <p>things to include in this section: title, original artist, soloist, arranger(???), and semester</p>
         </div>
       </div>
