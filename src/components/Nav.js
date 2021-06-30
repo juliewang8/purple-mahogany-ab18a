@@ -60,7 +60,7 @@ export default function Nav({ onMenuToggle = () => {} }) {
                 onMenuToggle();
               }}
               to="/Elements">
-              thisisforjulie
+              elements
             </Link>
           </li>
         </ul>
