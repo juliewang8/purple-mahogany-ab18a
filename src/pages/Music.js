@@ -47,7 +47,8 @@ const IndexPage = () => (
             </article>
           </section>
          <h3 className="major">Repertoire</h3>
-         <h4></h3>
+         <h4>Current</h4>
+         <h4>Current</h4>
         </div>
       </div>
     </section>
