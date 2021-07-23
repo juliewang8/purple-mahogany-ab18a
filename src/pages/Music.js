@@ -23,7 +23,6 @@ const IndexPage = () => (
           we decided to record some of our songs and get them mixed into an album. Also included in the album
           are older recordings from Mustard Seed alumni that we got to release alongside our music! </p>
           <br></br>
-          <br></br>
           The name "Metamorphosis" is representative of the transformation that we have in Jesus Christ 
           and is woven throughout the lyrics of the songs. From cries of desperation to songs of joy to declarations of 
           our faith, Metamorphosis represents the journeys that we take as believers.
