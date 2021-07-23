@@ -19,7 +19,6 @@ const IndexPage = () => (
           <h2 className="major">Mustard Seed Presents: metamorphosis</h2>
           <div>
           <iframe src="https://open.spotify.com/embed/album/6dIzQjsSJbw8qI8mzzVe0l" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/8GkZw-oxZdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
            </div>
 
           <h2 className="major">Listen to our music</h2>
