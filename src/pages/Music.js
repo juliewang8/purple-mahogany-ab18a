@@ -20,7 +20,7 @@ const IndexPage = () => (
           <div>
           <p> We are so proud to present our very first album, Metamorphosis! Since the group wasn't able to meet in person 
           for the second half of the Spring '20 semester and the entirety of the Fall '20 semester, 
-          we decided to record some of our songs and get them mixed into an album. Also included in the album
+          we decided to record some of our songs and get them mixed into an album. Included in the album
           are older recordings from Mustard Seed alumni that we got to release alongside our music! </p>
           <p>
           The name <i>metamorphosis</i> is representative of the transformation that we have in Jesus Christ, a theme 
