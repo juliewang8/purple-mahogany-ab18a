@@ -22,10 +22,9 @@ const IndexPage = () => (
           for the second half of the Spring '20 semester and the entirety of the Fall '20 semester, 
           we decided to record some of our songs and get them mixed into an album. Also included in the album
           are older recordings from Mustard Seed alumni that we got to release alongside our music! </p>
-          </p>
           <p>
           The name "Metamorphosis" is representative of the transformation that we have in Jesus Christ 
-          and is woven throughout the lyrics of the songs. From cries of desperation to shouts of joy, Metamorphosis represents the journeys that we take as believers.
+          and is woven throughout the lyrics of the songs. From cries of desperation to shouts of joy, Metamorphosis represents the journeys that we take as believers.</p>
           <br></br>
           <br></br>
           <iframe src="https://open.spotify.com/embed/album/6dIzQjsSJbw8qI8mzzVe0l" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
