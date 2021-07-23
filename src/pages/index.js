@@ -35,7 +35,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Why mustard seed?</h2>
             <p>
-              The mustard seed, which is the smallest of all seeds, is mentioned several times throughout the Bible.</p>
+The parable of the mustard seed is a story about a small dose of faith accomplishing much. Following this formula, Mustard Seed seeks to move heaven in two ways: to move the heart of God and to bring heaven to those who are empty. We exist to glorify God and to spread His love and message of salvation through song to the BU campus and beyond. Though the medium is music, the method is faith. God does all the work and we just get to believe and sing about it!
         <p>
 Matthew 17:20
 So Jesus said to them, "Because of your unbelief; for assuredly, I say to you, if you have faith as a mustard seed, you will say to this mountain, 'Move from here to there,' and it will move; and nothing will be impossible for you.
