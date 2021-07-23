@@ -55,7 +55,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
               not sure what to include here suggestions welcome lmao
             </p>
             <a href="/Members" className="special">
-              Read more
+              Click to listen
             </a>
           </div>
         </div>
@@ -72,7 +72,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
               blurb about something something recorded album virtual collab w alumni something 
             </p>
             <a href="/Music" className="special">
-              click to listen
+              Read more
             </a>
           </div>
         </div>
