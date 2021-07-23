@@ -52,7 +52,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
           <div className="content">
             <h2 className="major">Meet the Seeds</h2>
             <p>
-              not sure what to include here suggestions welcome lmao
+              Click to read about our current members (as well as alumni!) and learn more about everything from their majors to their favorite niche hobbies! 
             </p>
             <a href="/Members" className="special">
               Read more
