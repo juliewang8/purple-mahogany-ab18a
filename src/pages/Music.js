@@ -23,7 +23,7 @@ const IndexPage = () => (
 
           <h2 className="major">Listen to our music</h2>
           <p>
-            here there will be links to our youtube virtual performances + any recent stuff (embedded/linked), bigger past events such as concerts will be in different articles
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/8GkZw-oxZdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </p>
 
           <section className="features">
