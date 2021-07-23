@@ -50,7 +50,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
             <img src={pic2} alt="" />
           </a>
           <div className="content">
-            <h2 className="major">Meet the Seeds</h2>
+            <h2 className="major">We have an album!</h2>
             <p>
               not sure what to include here suggestions welcome lmao
             </p>
@@ -67,7 +67,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
             <img src={pic3} alt="" />
           </a>
           <div className="content">
-            <h2 className="major">We have an album!</h2>
+            <h2 className="major">Meet the Seeds</h2>
             <p>
               blurb about something something recorded album virtual collab w alumni something 
             </p>
