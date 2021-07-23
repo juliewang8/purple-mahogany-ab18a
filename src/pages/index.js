@@ -35,7 +35,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Why mustard seed?</h2>
             <p>
-The parable of the mustard seed is a story about a small dose of faith accomplishing much. Following this formula, Mustard Seed seeks to move heaven in two ways: to move the heart of God and to bring heaven to those who are empty. We exist to glorify God and to spread His love and message of salvation through song to the BU campus and beyond. Though the medium is music, the method is faith. God does all the work and we just get to believe and sing about it!
+The parable of the <i>mustard seed</i> is a story about a small dose of faith accomplishing much. Following this formula, Mustard Seed seeks to move heaven in two ways: to move the heart of God and to bring heaven to those who are empty. We exist to glorify God and to spread His love and message of salvation through song to the BU campus and beyond. Though the medium is music, the method is faith. God does all the work and we just get to believe and sing about it!
 </p>
             <a href="/LearnMore" className="special">
               Learn more
