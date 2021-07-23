@@ -20,6 +20,8 @@ const IndexPage = () => (
           <div>
           <iframe src="https://open.spotify.com/embed/album/6dIzQjsSJbw8qI8mzzVe0l" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
            </div>
+           <br></br>
+          <br></br>
 
           <h2 className="major">Listen to our music</h2>
           <p>
