@@ -44,9 +44,26 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
         </div>
       </section>
 
-      <section id="two" className="wrapper spotlight style2">
+      <section id="two" className="wrapper alt spotlight style2">
         <div className="inner">
           <a href="/Music" className="image">
+            <img src={pic2} alt="" />
+          </a>
+          <div className="content">
+            <h2 className="major">Meet the Seeds</h2>
+            <p>
+              not sure what to include here suggestions welcome lmao
+            </p>
+            <a href="/Members" className="special">
+              Read more
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section id="three" className="wrapper spotlight style3">
+        <div className="inner">
+          <a href="/Members" className="image">
             <img src={pic3} alt="" />
           </a>
           <div className="content">
@@ -60,25 +77,6 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
           </div>
         </div>
       </section>
-
-      <section id="three" className="wrapper alt spotlight style3">
-        <div className="inner">
-          <a href="/Members" className="image">
-            <img src={pic2} alt="" />
-          </a>
-          <div className="content">
-            <h2 className="major">Meet the Seeds</h2>
-            <p>
-              Click to read about our current members (as well as alumni!) and learn more about everything from their majors to their favorite niche hobbies! 
-            </p>
-            <a href="/Members" className="special">
-              Read more
-            </a>
-          </div>
-        </div>
-      </section>
-
-    
 
       <section id="four" className="wrapper alt style1">
         <div className="inner">
