@@ -44,6 +44,23 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
         </div>
       </section>
 
+      <section id="three" className="wrapper spotlight style3">
+        <div className="inner">
+          <a href="/Music" className="image">
+            <img src={pic3} alt="" />
+          </a>
+          <div className="content">
+            <h2 className="major">We have an album!</h2>
+            <p>
+              blurb about something something recorded album virtual collab w alumni something 
+            </p>
+            <a href="/Music" className="special">
+              click to listen
+            </a>
+          </div>
+        </div>
+      </section>
+
       <section id="two" className="wrapper alt spotlight style2">
         <div className="inner">
           <a href="/Members" className="image">
@@ -61,22 +78,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
         </div>
       </section>
 
-      <section id="three" className="wrapper spotlight style3">
-        <div className="inner">
-          <a href="/Music" className="image">
-            <img src={pic3} alt="" />
-          </a>
-          <div className="content">
-            <h2 className="major">We have an album!</h2>
-            <p>
-              blurb about something something recorded album virtual collab w alumni something 
-            </p>
-            <a href="/Music" className="special">
-              click to listen
-            </a>
-          </div>
-        </div>
-      </section>
+    
 
       <section id="four" className="wrapper alt style1">
         <div className="inner">
