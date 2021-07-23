@@ -23,7 +23,7 @@ const IndexPage = () => (
           we decided to record some of our songs and get them mixed into an album. Also included in the album
           are older recordings from Mustard Seed alumni that we got to release alongside our music! </p>
           <p>
-          The name "Metamorphosis" is representative of the transformation that we have in Jesus Christ, a theme 
+          The name metamorphosis" is representative of the transformation that we have in Jesus Christ, a theme 
           that is woven throughout the lyrics of these five songs. From cries of desperation to shouts of joy, Metamorphosis represents the journeys that we take as believers.</p>
 
           <iframe src="https://open.spotify.com/embed/album/6dIzQjsSJbw8qI8mzzVe0l" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
