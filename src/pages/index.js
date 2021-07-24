@@ -82,7 +82,8 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
         <div className="inner">
           <h2 className="major">the latest happenings</h2>
           <p>
-            From concerts to auditions coming up soon, make sure to keep up with the latest Mustard Seed events and news! 
+            From concerts to auditions coming up soon, 
+            make sure to keep up with the latest Mustard Seed events and news! 
           </p>
           <section className="features">
             <article>
