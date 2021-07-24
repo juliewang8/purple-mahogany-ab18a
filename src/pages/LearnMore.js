@@ -11,7 +11,6 @@ const IndexPage = () => (
       <header>
         <div className="inner">
           <h2>About us</h2>
-          <p></p>
         </div>
       </header>
 
