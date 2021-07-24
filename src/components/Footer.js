@@ -6,8 +6,7 @@ export default function Footer() {
       <div className="inner">
         <h2 className="major">Get in touch</h2>
         <p>
-          insert blurb about whether you have questions about auditions, wanna get to know us, etc, etc, shoot us an email!!!!
-          tbh i'm not sure if this actually works /sends an email yet LOL will have to figure it out
+Whether you have questions about auditions, want to book Mustard Seed for an event, or if you just wanna chat, feel free to shoot us an email or find us on our social medias!
         </p>
         <form method="post" action="/#">
           <div className="fields">
