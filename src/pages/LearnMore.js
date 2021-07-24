@@ -18,7 +18,8 @@ const IndexPage = () => (
         <div className="inner">
           <h3 className="major">Why mustard seed?</h3>
           <p>
-            For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move, and nothing will be impossible for you.” (Matthew 17:20 ESV)
+            For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, 
+            ‘Move from here to there,’ and it will move, and nothing will be impossible for you.” (Matthew 17:20 ESV)
           </p>
 
           <p>
