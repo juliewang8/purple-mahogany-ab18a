@@ -82,10 +82,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
         <div className="inner">
           <h2 className="major">the latest happenings</h2>
           <p>
-            haven't really finalized what i want on this page yet – i'm thinking we can use it as like
-            a news page and we can include things like: auditions soon!! or: we just had a concert yay!!
-            and in the music page some of the bigger events would point back to a "news page". and some of the 
-            concert/music stuff would also point back to our music page, etc etc
+            From concerts to auditions coming up soon, make sure to keep up with the latest Mustard Seed events and news! 
           </p>
           <section className="features">
             <article>
