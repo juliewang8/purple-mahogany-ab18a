@@ -29,7 +29,7 @@ const IndexPage = () => (
                         </div>
                         <div className="col-4"><span className="image fit"><img src="https://static.wixstatic.com/media/149ad6_9e03af96c0884d7391a56de6b9f5bdf3~mv2.jpg/v1/crop/x_0,y_20,w_2000,h_1960/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/jeremy_edited.webp" alt="" /></span
                         ><h3 className="nopadding align-center">Jeremy Yeung</h3><p className="align-center">VP / MUSICAL DIRECTOR</p></div>
-                        <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span
+                        <div className="col-4"><span className="image fit"><img src="https://static.wixstatic.com/media/149ad6_5781cd442b714590b69f1f6993f94950~mv2.jpg/v1/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/tim_edited.webp" alt="" /></span
                         ><h3 className="nopadding align-center">Timothy Li</h3><p className="align-center">TREASURER</p></div>
                                                 <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span
                         ><h3 className="nopadding align-center">Julia Chang</h3><p className="align-center">SECRETARY</p></div>
