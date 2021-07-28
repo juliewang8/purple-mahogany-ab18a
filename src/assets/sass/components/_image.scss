@@ -75,7 +75,7 @@
         }
 
         &.overlay {
-            opacity: 1;
+            opacity: 0;
             position: absolute;
             top: 0;
             bottom: 0;
@@ -109,7 +109,7 @@
         }
 
         &.overlay:hover {
-            opacity: 0;
+            opacity: 1;
         }
 	}
 
