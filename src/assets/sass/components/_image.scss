@@ -63,7 +63,7 @@
         }
 
         &.member {
-            transition: filter blur(3px);
+            transition: filter blur(3px) 2s;
             overflow: hidden;
         }
 
