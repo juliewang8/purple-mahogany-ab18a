@@ -63,8 +63,7 @@
         }
 
         &.member {
-            transition: filter blur(3px);
-            transition-timing-function: ease-in;
+            transition: filter blur(3px) 2s;
             overflow: hidden;
         }
 
