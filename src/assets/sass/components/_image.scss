@@ -60,6 +60,7 @@
 
         &.member {
             transition: filter blur(3px);
+            overflow: hidden;
         }
 
         &.member:hover {
