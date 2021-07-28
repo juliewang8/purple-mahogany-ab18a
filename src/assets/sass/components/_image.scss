@@ -75,7 +75,9 @@
         }
 
         &.overlay {
-
+            opacity: 0;
+            visibility: hidden;
+            
             layer {
                 position: absolute;
                 top: 0;
