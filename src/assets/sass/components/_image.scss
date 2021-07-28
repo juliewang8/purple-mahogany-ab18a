@@ -58,6 +58,10 @@
 			}
 		}
 
+        &.wrapper {
+            overflow: hidden
+        }
+
         &.member {
             transition: filter blur(3px);
             overflow: hidden;
