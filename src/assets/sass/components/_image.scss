@@ -59,11 +59,11 @@
 		}
 
         &.member {
-            transition: filter blur(2px);
+            transition: filter blur(3px);
         }
 
         &.member:hover {
-           filter: blur(3px);
+           filter: blur(4px);
         }
 	}
 
