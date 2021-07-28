@@ -109,5 +109,10 @@
                 transition: opacity .2s, visibility .2s;
             }
         }
+
+        &.overlay:hover {
+            visibility: visible;
+            opacity: 1;
+        }
 	}
 
