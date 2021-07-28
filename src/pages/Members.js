@@ -43,7 +43,7 @@ const IndexPage = () => (
             <div className="inner">
             <h2 className="minor"> </h2>
             <div className="row gtr-uniform aln-center">
-                        <div className="col-4 align-center"><span className="image fit"><img src={pic5} alt="" /></span><h3>member</h3></div>
+                        <div className="col-4 align-center"><span className="image fit"><img src="https://static.wixstatic.com/media/149ad6_72e1a85d149343e7a426cbc0410d2fd1~mv2.jpg/v1/crop/x_0,y_20,w_2000,h_1960/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/carissa_edited.webp" alt="" /></span><h3>member</h3></div>
                         <div className="col-4 align-center"><span className="image fit"><img src={pic6} alt="" /></span><h3>member</h3></div>
                         <div className="col-4 align-center"><span className="image fit"><img src={pic7} alt="" /></span><h3>member</h3></div>
                         <div className="col-4 align-center"><span className="image fit"><img src={pic7} alt="" /></span><h3>member</h3></div>
