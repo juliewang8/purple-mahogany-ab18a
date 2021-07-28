@@ -27,7 +27,7 @@ const IndexPage = () => (
                         <p className="nopadding align-center">Jenna is a junior studying Painting, Art History, and Statistics at Boston University. 
                         On the rare occasions when she is not reading or making art, she can be found deep in the woods attempting to befriend squirrels.</p>
                         </div>
-                        <div className="col-4"><span className="image fit"><img src={https://static.wixstatic.com/media/149ad6_ebcaca4e62af4086b22fb2d9578d70bd~mv2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01/jenna_edited.webp} alt="" /></span
+                        <div className="col-4"><span className="image fit"><img src="https://static.wixstatic.com/media/149ad6_ebcaca4e62af4086b22fb2d9578d70bd~mv2.jpg/v1/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01/jenna_edited.webp} alt="" /></span
                         ><h3 className="nopadding align-center">Jeremy Yeung</h3><p className="align-center">VP / MUSICAL DIRECTOR</p></div>
                         <div className="col-4"><span className="image fit"><img src={pic6} alt="" /></span
                         ><h3 className="nopadding align-center">Timothy Li</h3><p className="align-center">TREASURER</p></div>
