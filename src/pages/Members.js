@@ -21,7 +21,7 @@ const IndexPage = () => (
           <h2 className="major align-center">Current members</h2>
              <div className="box alt">
                     <div className="row gtr-uniform aln-center">
-                        <div className="col-4"><span className="image fit wrapper">
+                        <div className="col-4"><div className="image fit wrapper">
                         <img src="https://static.wixstatic.com/media/149ad6_ebcaca4e62af4086b22fb2d9578d70bd~mv2.jpg/v1/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/jenna_edited.webp" alt="" className="image member"/>
                         <span className="image__overlay_layer"><p class="image__overlay">hello!</p></span>
                         </span>
