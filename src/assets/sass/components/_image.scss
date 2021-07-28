@@ -64,7 +64,7 @@
 
         &.member {
             transition: filter blur(3px);
-            transition-delay: 1s;
+            transition-time-function: ease;
             overflow: hidden;
         }
 
