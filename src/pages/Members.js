@@ -23,8 +23,8 @@ const IndexPage = () => (
                     <div className="row gtr-uniform aln-center">
                         <div className="col-4"><div className="image fit wrapper">
                         <img src="https://static.wixstatic.com/media/149ad6_ebcaca4e62af4086b22fb2d9578d70bd~mv2.jpg/v1/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/jenna_edited.webp" alt="" className="image member"/>
-                        <span className="image__overlay_layer"><p class="image__overlay">hello!</p></span>
-                        </span>
+                        <div className="image__overlay_layer"><p class="image__overlay">hello!</p></div>
+                        </div>
                         <h3 className="nopadding align-center">Jenna Riedl</h3><p className="lesspadding align-center">PRESIDENT</p>
                         <p className="nopadding align-center">Jenna is a junior studying Painting, Art History, and Statistics at Boston University. 
                         On the rare occasions when she is not reading or making art, she can be found deep in the woods attempting to befriend squirrels.</p>
