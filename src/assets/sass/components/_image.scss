@@ -68,7 +68,7 @@
             overflow: hidden;
         }
 
-        &.member:hover {
+        &.member:hover .descriptionlayer {
            filter: blur(15px);
            overflow: hidden;
            transition: all 250ms ease
