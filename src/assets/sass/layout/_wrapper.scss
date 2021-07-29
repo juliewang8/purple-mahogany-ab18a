@@ -214,7 +214,7 @@
 
     @for $i from 2 through _misc(max-wrapper-styles) {
       $j: 3 * ($i - 1);
-      $color: saturate(darken(#6771a8, $j), $j * 0.5);
+      $color: saturate(darken(#6771a8, $j), $j * 0.8);
 
       &.style#{$i} {
         background-color: $color;
