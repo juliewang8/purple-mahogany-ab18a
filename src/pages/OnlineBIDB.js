@@ -22,6 +22,9 @@ Mustard Seed had the honor of virtually hosting the annual “Break it Down Bost
           <p>
 We were even able to put together the traditional group song: Check out “The Lord Bless You and Keep You” here. 
           </p>
+          <p>
+We were even able to put together the traditional group song: Check out “The Lord Bless You and Keep You” here. 
+          </p>
         </div>
       </div>
     </section>
