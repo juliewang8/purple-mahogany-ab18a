@@ -107,6 +107,11 @@ const IndexPage = () => (
                         <h3 className="nopadding align-center yellow">Julie Wang</h3><p className="lesspadding align-center">INTERPERSONAL COORDINATOR</p>
                         <p className="nopadding align-center">Alto – NEU'23</p> <p className="nopadding align-center">she/her | ISFP | Type 9</p>
                         </div>
+
+
+                                                <div className="col-4"><span className="image fit"><img src="https://static.wixstatic.com/media/149ad6_cda1e56f658741c6a73f97e39434026f~mv2.jpg/v1/crop/x_0,y_20,w_2000,h_1960/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/julie_edited.webp" alt="" /></span
+                        ><h3 className="nopadding align-center">Julie Wang</h3><p className="align-center">PUBLIC RELATIONS CHAIR</p></div>
+
             </div>
 
             <div className="inner">
