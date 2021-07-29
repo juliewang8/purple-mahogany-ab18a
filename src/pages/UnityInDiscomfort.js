@@ -18,7 +18,7 @@ const IndexPage = () => (
         <div className="inner">
         <h2>A Conversation about Gender and Sexuality in the A Cappella Community</h2>
           <p>
-In the Spring 2021 semester, one of our group’s goal was to outreach to the community around us. So, we were honored to be invited by UC Berkeley’s For Christ’s Sake to participate in the Nationwide Christian A Cappella Benefit Concert. Our recording of “Brother x Deep Water”, a mashup by Kodaline and American Authors played at the show. In collaboration with a cappella groups all over the country, we were able to raise funds for various charitable foundations. Considering those in the area around us, Mustard Seed chose Boston Healthcare for the Homeless, who has been distributing COVID vaccines to the homeless and marginally house individuals. Praise the Lord we raised almost $150 for the organization. 
+The Boston University a cappella community has been focusing on and working towards making the a cappella community an inclusive and safe space. In the fall, they held a conference around race and diversity, in addition to collaborating on a community-wide Inclusivity Statement. This semester, our 2020-2021 president, Becks, had the chance to help plan a conference talking about gender and sexuality. This 2-hour event provided education, a speaker, and a chance to engage in conversation with other members of the a cappella community. Although our group has not always engaged with many other a cappella groups, the increased connection this past semester and year has been really exciting!
           </p>
           <p>Watch the Benefit Concert HERE.</p>
         </div>
