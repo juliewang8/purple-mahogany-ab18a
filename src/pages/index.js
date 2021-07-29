@@ -116,8 +116,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
               </a>
               <h3 className="major">Online BIDB 2021</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                Mustard Seed had the honor of virtually hosting the annual “Break it Down Boston” event, or BIDB, this past Spring!
               </p>
               <a href="/#" className="special">
                 Learn more
