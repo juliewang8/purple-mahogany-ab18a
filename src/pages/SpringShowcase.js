@@ -19,9 +19,7 @@ const IndexPage = () => (
           <p>
           Despite doing the Spring 2021 semester remotely, we had the opportunity to put on a virtual showcase! Our members spent the semester working hard to prepare mini projects in groups of two to four. A few members were also able to share testimonies about how God has been working in their lives, especially during this pandemic. Performances include songs from the Greatest Showman, HSMTMTS and by Pentatonix, Daniel Caesar, and Jon Bellion/Hillsong! 
           </p>
-
           <p>Check out the music, testimonies, and bad jokes HERE</p>
-
         </div>
       </div>
     </section>
