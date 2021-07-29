@@ -82,6 +82,9 @@
             justify-content: center;
             opacity: 0;
             transition: opacity 0.25s;
+            padding: 0;
+            margin: 0;
+            border: 0;
         }
 
         &.overlay--blur {
