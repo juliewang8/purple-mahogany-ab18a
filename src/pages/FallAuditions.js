@@ -10,7 +10,7 @@ const IndexPage = () => (
     <section id="wrapper">
       <header>
         <div className="inner">
-          <h2>About us</h2>
+          <h2>Fall 2021 Auditions</h2>
         </div>
       </header>
 
