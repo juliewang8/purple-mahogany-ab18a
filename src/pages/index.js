@@ -106,7 +106,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
               <p>
                 Despite doing the Spring 2021 semester remotely, we had the opportunity to put on a virtual showcase!
               </p>
-              <a href="/#" className="special">
+              <a href="/SpringShowcase" className="special">
                 Learn more
               </a>
             </article>
