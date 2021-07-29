@@ -94,7 +94,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
               <p>
                 We will be in person for the Fall 2021 Semester!! Auditions will be held at Boston University’s CFA building in September. 
               </p>
-              <a href="/#" className="special">
+              <a href="/FallAuditions" className="special">
                 Learn more
               </a>
             </article>
