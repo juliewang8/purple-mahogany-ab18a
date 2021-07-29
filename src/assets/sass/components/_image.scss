@@ -101,11 +101,11 @@
             opacity:1
         }        
 
-        .image__overlay:hover > * {
+        &.overlay:hover > * {
             transform: translateY(0);
         }
 
-        .image__title {
+        &.title {
             font-size: 2em;
             font-weight: bold;
         }
