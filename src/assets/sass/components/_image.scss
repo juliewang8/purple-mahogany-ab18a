@@ -95,7 +95,11 @@
         &.overlay > * {
             transform: translateY(20px);
             transition: transform 0.25s;
-        }           
+        }   
+
+        &.overlay:hover {
+            opacity:1
+        }        
 
 
         &.descriptionlayer {
