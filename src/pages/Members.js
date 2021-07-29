@@ -33,7 +33,7 @@ const IndexPage = () => (
                                 </div>
 
                         <h3 className="nopadding align-center">Jenna Riedl</h3><p className="lesspadding align-center">PRESIDENT</p>
-                        <p className="nopadding align-center">Soprano | CFA'23</p> <p>ISFP/Type 9</p>
+                        <p className="nopadding align-center">Soprano | CFA'23</p> <p className="nopadding align-center">ISFP/Type 9</p>
                         </div>
 
                         <div className="col-4"><span className="image fit"><img src="https://static.wixstatic.com/media/149ad6_9e03af96c0884d7391a56de6b9f5bdf3~mv2.jpg/v1/crop/x_0,y_20,w_2000,h_1960/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/jeremy_edited.webp" alt="" /></span
