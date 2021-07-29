@@ -89,6 +89,7 @@
         }
 
         &.overlay--primary {
+            filter: blur(15px);
             background: #009578;
         }
 
