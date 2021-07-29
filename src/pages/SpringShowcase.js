@@ -17,9 +17,10 @@ const IndexPage = () => (
       <div className="wrapper">
         <div className="inner">
           <p>
-
-          We will be in person for the Fall 2021 Semester!! Auditions will be held at Boston University’s CFA building in September. The audition cycle typically consists of the initial audition where auditionees sing a verse and chorus of a song for the group, callbacks, and a social event. Dates and details are still yet to be determined but keep an eye out on our website and social media channels for more details as the Fall semester gets closer. Feel free to reach out to us with any questions and we look forward to hearing from you!
+          Despite doing the Spring 2021 semester remotely, we had the opportunity to put on a virtual showcase! Our members spent the semester working hard to prepare mini projects in groups of two to four. A few members were also able to share testimonies about how God has been working in their lives, especially during this pandemic. Performances include songs from the Greatest Showman, HSMTMTS and by Pentatonix, Daniel Caesar, and Jon Bellion/Hillsong! 
           </p>
+
+          <p>Check out the music, testimonies, and bad jokes HERE</p>
 
           <h3 className="major yellow">More information</h3>
 
