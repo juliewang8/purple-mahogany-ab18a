@@ -103,7 +103,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
               <a href="/#" className="image">
                 <img src={pic5} alt="" />
               </a>
-              <h3 className="major">Nisl placerat</h3>
+              <h3 className="major">Spring 2021 Showcase</h3>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
                 nulla dignissim dapibus ultrices.
