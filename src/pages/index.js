@@ -128,8 +128,8 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
               </a>
               <h3 className="major">FCS A Cappella Benefit Concert</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+            We are honored to have been invited by UC Berkeley’s For Christ’s Sake to participate in the Nationwide Christian A Cappella Benefit Concert!
+
               </p>
               <a href="/FCSConcert" className="special">
                 Learn more
