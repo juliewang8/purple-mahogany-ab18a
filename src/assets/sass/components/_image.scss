@@ -92,6 +92,12 @@
             background: #009578;
         }
 
+        &.image__overlay > * {
+    transform: translateY(20px);
+    transition: transform 0.25s;
+}
+
+
         &.descriptionlayer {
             opacity: 0;
             position: absolute;
