@@ -17,8 +17,9 @@ const IndexPage = () => (
       <div className="wrapper">
         <div className="inner">
           <p>
-            For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, 
-            ‘Move from here to there,’ and it will move, and nothing will be impossible for you.” (Matthew 17:20 ESV)
+
+          We will be in person for the Fall 2021 Semester!! Auditions will be held at Boston University’s CFA building in September. The audition cycle typically consists of the initial audition where auditionees sing a verse and chorus of a song for the group, callbacks, and a social event. Dates and details are still yet to be determined but keep an eye out on our website and social media channels for more details as the Fall semester gets closer. Feel free to reach out to us with any questions and we look forward to hearing from you!
+
           </p>
 
           <h3 className="major yellow">Mission Statement</h3>
