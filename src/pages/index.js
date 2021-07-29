@@ -131,7 +131,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
                 Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
                 nulla dignissim dapibus ultrices.
               </p>
-              <a href="/#" className="special">
+              <a href="/FCSConcert" className="special">
                 Learn more
               </a>
             </article>
