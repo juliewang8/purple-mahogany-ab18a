@@ -111,5 +111,15 @@
         &.overlay:hover > * {
             transform: translateY(0);
         }
+
+        .image__title {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.image__description {
+    font-size: 1.25em;
+    margin-top: 0.25em;
+}
 }
 
