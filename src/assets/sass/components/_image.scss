@@ -70,6 +70,7 @@
 
         &.member:hover .descriptionlayer {
            filter: blur(15px);
+           opacity: 1;
            overflow: hidden;
            transition: all 250ms ease
         }
