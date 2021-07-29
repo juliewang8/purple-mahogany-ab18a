@@ -84,6 +84,10 @@
             transition: opacity 0.25s;
         }
 
+        &.overlay--blur {
+            filter: blur(15px)
+        }
+
         &.member:hover {
            filter: blur(15px);
            overflow: hidden;
