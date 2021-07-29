@@ -213,7 +213,7 @@
     }
 
     @for $i from 2 through _misc(max-wrapper-styles) {
-      $j: 10 * ($i - 1);
+      $j: 12 * ($i - 1);
       $color: darken(#6771a8, $j);
 
       &.style#{$i} {
