@@ -22,8 +22,6 @@ const IndexPage = () => (
 
           <p>Check out the music, testimonies, and bad jokes HERE</p>
 
-          <h3 className="major yellow">More information</h3>
-
         </div>
       </div>
     </section>
