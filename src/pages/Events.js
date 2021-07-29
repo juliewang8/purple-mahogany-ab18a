@@ -73,7 +73,7 @@ const IndexPage = () => (
               <a href="/UnityInDiscomfort" className="image">
                 <img src={pic7} alt="" />
               </a>
-              <h3 className="major">FCS A Cappella Benefit Concert</h3>
+              <h3 className="major">Unity in Discomfort</h3>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
                 nulla dignissim dapibus ultrices.
