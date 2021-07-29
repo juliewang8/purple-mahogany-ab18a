@@ -22,7 +22,7 @@ const IndexPage = () => (
             ‘Move from here to there,’ and it will move, and nothing will be impossible for you.” (Matthew 17:20 ESV)
           </p>
 
-          <h3 className="major">Vitae phasellus</h3>
+          <h3 className="major">Mission Statement</h3>
           <p>
             Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
             Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
