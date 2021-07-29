@@ -68,7 +68,7 @@
             overflow: hidden;
         }
 
-        &.member:hover .descriptionlayer {
+        &.member:hover {
            filter: blur(15px);
            opacity: 1;
            overflow: hidden;
