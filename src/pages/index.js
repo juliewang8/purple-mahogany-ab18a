@@ -99,7 +99,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
               </a>
             </article>
             <article>
-              <a href="/#" className="image">
+              <a href="/SpringShowcase" className="image">
                 <img src={pic5} alt="" />
               </a>
               <h3 className="major">Spring 2021 Showcase</h3>
@@ -111,7 +111,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
               </a>
             </article>
             <article>
-              <a href="/#" className="image">
+              <a href="/OnlineBIDB" className="image">
                 <img src={pic6} alt="" />
               </a>
               <h3 className="major">Online BIDB 2021</h3>
@@ -123,7 +123,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
               </a>
             </article>
             <article>
-              <a href="/#" className="image">
+              <a href="/FCSConcert" className="image">
                 <img src={pic7} alt="" />
               </a>
               <h3 className="major">FCS A Cappella Benefit Concert</h3>
