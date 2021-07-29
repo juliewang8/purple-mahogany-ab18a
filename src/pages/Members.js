@@ -36,12 +36,9 @@ const IndexPage = () => (
                         <p className="nopadding align-center">Soprano | CFA'23</p> <p className="nopadding align-center">she/her | ISFP | Type 9</p>
                         </div>
 
-                        <div className="col-4"><span className="image fit"><img src="https://static.wixstatic.com/media/149ad6_9e03af96c0884d7391a56de6b9f5bdf3~mv2.jpg/v1/crop/x_0,y_20,w_2000,h_1960/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/jeremy_edited.webp" alt="" /></span
-                        ><h3 className="nopadding align-center">Jeremy Yeung</h3><p className="align-center">VP / MUSICAL DIRECTOR</p></div>
-
                         <div className="col-4">
                                 <div className="image fit wrap">
-                                    <img src="https://static.wixstatic.com/media/149ad6_ebcaca4e62af4086b22fb2d9578d70bd~mv2.jpg/v1/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/jenna_edited.webp" alt="" className="image fit img"/>
+                                    <img src="https://static.wixstatic.com/media/149ad6_9e03af96c0884d7391a56de6b9f5bdf3~mv2.jpg/v1/crop/x_0,y_20,w_2000,h_1960/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/jeremy_edited.webp" alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
                                             <p class="image fit description">Jenna is a junior studying Painting, Art History, and Statistics at Boston University. 
@@ -49,7 +46,7 @@ const IndexPage = () => (
                                         </div>
                                 </div>
 
-                        <h3 className="nopadding align-center yellow">Jenna Riedl</h3><p className="lesspadding align-center">PRESIDENT</p>
+                        <h3 className="nopadding align-center yellow">Jeremy Yeung</h3><p className="lesspadding align-center">PRESIDENT</p>
                         <p className="nopadding align-center">Soprano | CFA'23</p> <p className="nopadding align-center">she/her | ISFP | Type 9</p>
                         </div>
 
