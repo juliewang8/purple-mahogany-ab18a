@@ -25,8 +25,8 @@ const IndexPage = () => (
                         <div className="col-4">
                             <div className="image fit wrap">
                                 <img src="https://static.wixstatic.com/media/149ad6_ebcaca4e62af4086b22fb2d9578d70bd~mv2.jpg/v1/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/jenna_edited.webp" alt="" className="image member"/>
-                                    <div className="image descriptionlayer">
-                                    <p class="image description">hello!</p></div>
+                                    <div className="image fit descriptionlayer">
+                                    <p class="image fit description">hello!</p></div>
                             </div>
 
                         <h3 className="nopadding align-center">Jenna Riedl</h3><p className="lesspadding align-center">PRESIDENT</p>
