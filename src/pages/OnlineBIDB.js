@@ -17,7 +17,7 @@ const IndexPage = () => (
       <div className="wrapper">
         <div className="inner">
           <p>
-          Despite doing the Spring 2021 semester remotely, we had the opportunity to put on a virtual showcase! Our members spent the semester working hard to prepare mini projects in groups of two to four. A few members were also able to share testimonies about how God has been working in their lives, especially during this pandemic. Performances include songs from the Greatest Showman, HSMTMTS and by Pentatonix, Daniel Caesar, and Jon Bellion/Hillsong! 
+Mustard Seed had the honor of virtually hosting the annual “Break it Down Boston” event, or BIDB, this past Spring! In a typical year, Christian a cappella groups from up and down the East Coast gather in Boston to perform and fellowship with one another. Because of the pandemic, we decided to go online. With around 70 attendees from our friends at Carnegie Mellon University, Johns Hopkins University, Rutgers University and many more, we had a blessed time of worship, games, and workshops. 
           </p>
           <p>Check out the music, testimonies, and bad jokes HERE</p>
         </div>
