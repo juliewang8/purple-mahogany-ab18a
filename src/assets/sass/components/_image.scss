@@ -88,12 +88,10 @@
             filter: blur(15px)
         }
 
-        &.member:hover {
-           filter: blur(15px);
-           overflow: hidden;
-           transition: all 250ms ease
-        }
+        &.overlay--primary {
 
+        }
+        
         &.descriptionlayer {
             opacity: 0;
             position: absolute;
