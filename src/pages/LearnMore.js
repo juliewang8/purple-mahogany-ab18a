@@ -23,12 +23,12 @@ const IndexPage = () => (
           </p>
 
           <h3 className="major">Mission Statement</h3>
-          <p>As one of the Christian a cappella groups in Boston, Mustard Seed hopes to share the love of Christ and the transformative power of the Holy Spirit in our lives through song. 
+          <p className="no-padding">As one of the Christian a cappella groups in Boston, Mustard Seed hopes to share the love of Christ and the transformative power of the Holy Spirit in our lives through song. 
           </p>
           <ul>
           <li>To communicate Christ-centered messages of love and joy through a cappella.</li>
-          <li></li>
-          <li></li>
+          <li>To grow in our relationships with God and one another </li>
+          <li>To grow in our relationships with God and one another </li>
           </ul>
 
         </div>
