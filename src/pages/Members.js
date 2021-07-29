@@ -60,7 +60,7 @@ const IndexPage = () => (
                                         </div>
                                 </div>
 
-                        <h3 className="nopadding align-center yellow">Timothy Li</h3><p className="lesspadding align-center">VP / MUSICAL DIRECTOR</p>
+                        <h3 className="nopadding align-center yellow">Timothy Li</h3><p className="lesspadding align-center">TREASURER</p>
                         <p className="nopadding align-center">Alto – NEU'23</p> <p className="nopadding align-center">she/her | ISFP | Type 9</p>
                         </div>
 
