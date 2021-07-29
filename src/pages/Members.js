@@ -26,7 +26,8 @@ const IndexPage = () => (
                                 <div className="image fit wrap">
                                     <img src="https://static.wixstatic.com/media/149ad6_ebcaca4e62af4086b22fb2d9578d70bd~mv2.jpg/v1/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/jenna_edited.webp" alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
-                                        <p class="image fit description">hello!</p>
+                                            <div class="image fit title">title</div>
+                                            <p class="image fit description">hello!</p>
                                         </div>
                                 </div>
 
