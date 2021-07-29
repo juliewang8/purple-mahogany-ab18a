@@ -75,8 +75,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Unity in Discomfort</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                 A Conversation about Gender and Sexuality in the A Cappella Community
               </p>
               <a href="/FCSConcert" className="special">
                 Learn more
