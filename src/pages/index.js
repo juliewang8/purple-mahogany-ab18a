@@ -69,7 +69,6 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
           <div className="content">
             <h2 className="major">Meet the Seeds</h2>
             <p>
-              blurb about something something recorded album virtual collab w alumni something 
             </p>
             <a href="/Members" className="special">
               Read more
