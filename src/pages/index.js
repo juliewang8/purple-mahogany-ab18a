@@ -52,7 +52,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
           <div className="content">
             <h2 className="major">We have an album!</h2>
             <p>
-              not sure what to include here suggestions welcome lmao
+              Metamorphosis is our very first album, recorded over the period of virtual rehearsals 
             </p>
             <a href="/Music" className="special">
               Click to listen
