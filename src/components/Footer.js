@@ -36,7 +36,7 @@ feel free to shoot us an email or find us on our social medias!
           <li className="fa-phone">{config.phone}</li>
 
           {config.socialLinks.map(social => {
-            const { icon, url } = social;
+            const { icon, url, name } = social;
             return (
               <li className={`${icon}`} key={url}>
                 <a href={url}>{name}</a>
