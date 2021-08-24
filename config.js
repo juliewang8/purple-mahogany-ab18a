@@ -30,7 +30,7 @@ module.exports = {
     {
       icon: 'fa-youtube',
       name: 'Youtube',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'https://www.youtube.com/user/bumseed',
     },
   ]
 };
