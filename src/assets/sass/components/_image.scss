@@ -127,7 +127,8 @@
             padding-right: 1em;
             text-align: center;
             line-height: 100%;
-            word-break: break-all;
+            // word-break: break-all;
+            text-wrap: balance;
         }
 }
 
