@@ -13,22 +13,22 @@ module.exports = {
   // social
   socialLinks: [
     {
-      icon: 'fa-github',
+      icon: 'fa-instagram',
       name: 'Github',
       url: 'https://github.com/anubhavsrivastava',
     },
     {
-      icon: 'fa-twitter',
+      icon: 'fa-facebook',
       name: 'Twitter',
       url: 'https://twitter.com/onlyanubhav',
     },
     {
-      icon: 'fa-facebook',
+      icon: 'fa-spotify',
       name: 'Facebook',
       url: 'https://facebook.com/theanubhav',
     },
     {
-      icon: 'fa-envelope-o',
+      icon: 'fa-youtube',
       name: 'Email',
       url: 'mailto:anubhav.srivastava00@gmail.com',
     },
