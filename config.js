@@ -20,7 +20,7 @@ module.exports = {
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://www.facebook.com/BUMustardSeedOfficial',
     },
     {
       icon: 'fa-spotify',
