@@ -39,7 +39,7 @@ feel free to shoot us an email or find us on our social medias!
             const { icon, url } = social;
             return (
               <li className={`${icon}`} key={url}>
-                <a href={url}>{url}</a>
+                <a href={url}>{name}</a>
               </li>
             );
           })}
