@@ -25,7 +25,7 @@ module.exports = {
     {
       icon: 'fa-spotify',
       name: 'Spotify',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://open.spotify.com/artist/1or0X6vMuuCJePhXVZsuzw?si=2UPRkssRT8ujlODwtVVaJA&dl_branch=1',
     },
     {
       icon: 'fa-youtube',
