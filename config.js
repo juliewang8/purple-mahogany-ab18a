@@ -13,7 +13,7 @@ module.exports = {
   // social
   socialLinks: [
     {
-      icon: 'icon fa-instagram',
+      icon: 'fa-instagram',
       name: 'Instagram',
       url: 'https://www.instagram.com/bu_mustardseed/',
     },
