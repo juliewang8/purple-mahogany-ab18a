@@ -19,17 +19,17 @@ module.exports = {
     },
     {
       icon: 'fa-facebook',
-      name: 'Twitter',
+      name: 'Facebook',
       url: 'https://twitter.com/onlyanubhav',
     },
     {
       icon: 'fa-spotify',
-      name: 'Facebook',
+      name: 'Spotify',
       url: 'https://facebook.com/theanubhav',
     },
     {
       icon: 'fa-youtube',
-      name: 'Email',
+      name: 'Youtube',
       url: 'mailto:anubhav.srivastava00@gmail.com',
     },
   ]
