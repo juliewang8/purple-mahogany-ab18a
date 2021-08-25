@@ -66,7 +66,8 @@ const IndexPage = () => (
          Rain - Nick Fabian (arr. Jeremy Yeung) <br/>
         I Wanna Know You - Dante Bowe (arr. Julie Wang) <br/>
         How Deep is Your Love - PJ Morton ft. Yebba (arr. Hannah Loo)<br/>
-        Hollow - Tori Kelly<br/><br/>
+        Hollow - Tori Kelly<br/>
+        Rather Be - Clean Bandit ft. Jess Glynn (arr. Timothy Li)<br/>
          <a href="/PastRep"><h3>Click here for past repertoire</h3></a> 
          <h2 className="major"></h2>
         </div>
