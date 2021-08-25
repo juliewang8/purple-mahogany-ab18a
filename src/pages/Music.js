@@ -30,8 +30,6 @@ const IndexPage = () => (
           The name <i>metamorphosis</i> is representative of the transformation that we have in Jesus Christ, a theme 
           that is woven throughout the lyrics of these five songs. From cries of desperation to shouts of joy, Metamorphosis represents the journeys that we take as believers.</p>
            </div>
-           <br></br>
-          <br></br>
 
           <h2 className="major">Listen to our music</h2>
           <p>
