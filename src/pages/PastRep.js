@@ -33,6 +33,8 @@ const IndexPage = () => (
           <h3 className="major">2012-2013</h3>
           <h3 className="major">2011-2012</h3>
 
+          <h3 className="major">2010-2011</h3>
+          <h3 className="major">2009-2010</h3>
           <h3 className="major">pre-2008</h3>
 
         </div>
