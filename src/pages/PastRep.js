@@ -45,7 +45,7 @@ const IndexPage = () => (
                     I Live for You - TrueVibe (arr. David J. Park)<br/>
                     Everything - Lifehouse (arr. Alison Levosky)<br/>
                     Future Version - Shane and Shane (arr. Benjamin Low)<br/>
-                    Future Version - Shane and Shane (arr. Benjamin Low)<br/>
+                    Holy War - Alicia Keys (arr. Phillip Baik and Joyce Yoon)<br/>
           <h3 className="major">2018-2019</h3>
                      <br/>
                      <br/>
