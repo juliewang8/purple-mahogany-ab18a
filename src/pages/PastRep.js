@@ -25,8 +25,8 @@ const IndexPage = () => (
                      No Roots - Alice Merton (arr. Elizabeth Reigel)<br/>
                      Us - James Bay and Alicia Keys (arr. Ivey Choi)<br/>
                      You Say - Lauren Daigle<br/>
-                     <br/>
-                     <br/><br/>
+            
+                     Deep Water / Brother - American Authors/Kodaline (arr. Matthew Lin)<br/><br/>
           <h3 className="major">2018-2019</h3>
                      <br/>
                      <br/>
