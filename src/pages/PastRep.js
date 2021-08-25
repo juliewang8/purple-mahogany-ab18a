@@ -28,6 +28,7 @@ const IndexPage = () => (
             
                      Deep Water / Brother - American Authors/Kodaline (arr. Matthew Lin)<br/><br/>
           <h3 className="major">2018-2019</h3>
+                    Joyful Joyful - Henry van Dyke (arr. David J. Park)
                     When I Am Afraid - Laura Hackett (arr. Rachel Porter)<br/>
                     Let my Words be Few - Phillips, Craig, and Dean (arr. Lewis Warren Jr.)<br/>
                     That's Christmas to Me - Pentatonix (arr. Joyce Yoon)<br/>
@@ -46,7 +47,7 @@ const IndexPage = () => (
                     Everything - Lifehouse (arr. Alison Levosky)<br/>
                     Future Version - Shane and Shane (arr. Benjamin Low)<br/>
                     Holy War - Alicia Keys (arr. Phillip Baik and Joyce Yoon)<br/>
-                    Holy War - Alicia Keys (arr. Phillip Baik and Joyce Yoon)<br/>
+                    Make You Feel My Love - Bob Dylan ft. Adele (arr. Jeffrey Wong)<br/><br/>
           <h3 className="major">2018-2019</h3>
                      <br/>
                      <br/>
