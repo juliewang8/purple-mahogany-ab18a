@@ -62,7 +62,7 @@ const IndexPage = () => (
           </section>
          <h2 className="major">Repertoire</h2>
          <h3>Current</h3>
-         rain <br/>
+         Rain - Nick Fabian (arr. Jeremy Yeung) <br/>
         i wanna know you <br/>
         how deep is your love<br/>
         hollow<br/>
