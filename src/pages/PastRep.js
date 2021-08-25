@@ -20,15 +20,9 @@ const IndexPage = () => (
           <h3 className="major">2019-2020</h3>
           <h3 className="major">2018-2019</h3>
           <h3 className="major">2017-2018</h3>
-          <h3 className="major">2020-2021</h3>
-          <h3 className="major">2019-2020</h3>
-          <h3 className="major">2020-2021</h3>
-          <h3 className="major">2019-2020</h3>
-          <h3 className="major">2020-2021</h3>
-          <h3 className="major">2019-2020</h3>
-          <h3 className="major">2020-2021</h3>
-          <h3 className="major">2019-2020</h3>
-          <h3 className="major">2020-2021</h3>
+
+          <h3 className="major">2018-2019</h3>
+          <h3 className="major">2017-2018</h3>
 
         </div>
       </div>
