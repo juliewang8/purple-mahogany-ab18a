@@ -38,17 +38,41 @@ const IndexPage = () => (
                     I Don't Have the Answers - We Are Messengers (arr. Phillip Baik)<br/>
                     When You Believe - Whitney Houston ft. Maria Carey (arr. Joyce Yoon)<br/><br/>
           <h3 className="major">2017-2018</h3>
-                     <br/>
+                    <br/>
                      <br/>
                      <br/>
                      <br/>
                      <br/>
                      <br/><br/>
           <h3 className="major">2018-2019</h3>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/><br/>
           <h3 className="major">2017-2018</h3>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/><br/>
 
           <h3 className="major">2016-2017</h3>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/><br/>
           <h3 className="major">2015-2016</h3>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/><br/>
 
           <h3 className="major">2014-2015</h3>
           <h3 className="major">2013-2014</h3>
