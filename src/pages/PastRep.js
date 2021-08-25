@@ -17,7 +17,7 @@ const IndexPage = () => (
       <div className="wrapper">
         <div className="inner">
           <h3 className="major">2020-2021</h3>
-          <h3 className="major">Mission Statement</h3>
+          <h3 className="major">2019-2020</h3>
 
         </div>
       </div>
