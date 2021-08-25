@@ -31,9 +31,9 @@ const IndexPage = () => (
                     When I Am Afraid - Laura Hackett (arr. Rachel Porter)<br/>
                     Let my Words be Few - Phillips, Craig, and Dean (arr. Lewis Warren Jr.)<br/>
                     That's Christmas to Me - Pentatonix (arr. Joyce Yoon)<br/>
-                     <br/>
-                     <br/>
-                     <br/><br/>
+                    Baba Yetu - Christopher Tin ft. Stanford Talisman (arr. Lee-Shing Chang)<br/>
+                    Everglow - Coldplay<br/>
+                    God Only Knows - For King and Country (arr. Phillip Baik) <br/><br/>
           <h3 className="major">2017-2018</h3>
                      <br/>
                      <br/>
