@@ -48,20 +48,6 @@ const IndexPage = () => (
                     Future Version - Shane and Shane (arr. Benjamin Low)<br/>
                     Holy War - Alicia Keys (arr. Phillip Baik and Joyce Yoon)<br/>
                     Make You Feel My Love - Bob Dylan ft. Adele (arr. Jeffrey Wong)<br/><br/>
-          <h3 className="major">2018-2019</h3>
-                     <br/>
-                     <br/>
-                     <br/>
-                     <br/>
-                     <br/>
-                     <br/><br/>
-          <h3 className="major">2017-2018</h3>
-                     <br/>
-                     <br/>
-                     <br/>
-                     <br/>
-                     <br/>
-                     <br/><br/>
 
           <h3 className="major">2016-2017</h3>
                      <br/>
