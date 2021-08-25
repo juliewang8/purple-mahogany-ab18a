@@ -43,7 +43,8 @@ const IndexPage = () => (
                     Hollow - Tori Kelly (arr. Jessica Lin)<br/>
                     Run to You - Pentatonix (arr. PTX and Ben Brahm)<br/>
                     I Live for You - TrueVibe (arr. David J. Park)<br/>
-                    <br/><br/>
+                    Everything - Lifehouse (arr. Alison Levosky)<br/>
+                    Future Version - Shane and Shane (arr. Benjamin Low)<br/>
           <h3 className="major">2018-2019</h3>
                      <br/>
                      <br/>
