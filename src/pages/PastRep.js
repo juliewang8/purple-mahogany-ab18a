@@ -20,8 +20,6 @@ const IndexPage = () => (
                      Changed - Jordan Feliz (arr. Matthew Lin)<br/>
                      Wanted - Danny Gokey (arr. Hannah Loo)<br/>
                      Deep Water / Brother – American Authors/Kodaline (arr. Matthew Lin)<br/>
-                     <br/>
-                     <br/>
                      <br/><br/>
           <h3 className="major">2019-2020</h3>
                      <br/>
