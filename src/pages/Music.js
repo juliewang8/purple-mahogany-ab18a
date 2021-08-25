@@ -67,7 +67,7 @@ const IndexPage = () => (
         I Wanna Know You - Dante Bowe (arr. Julie Wang) <br/>
         How Deep is Your Love - PJ Morton ft. Yebba (arr. Hannah Loo)<br/>
         Hollow - Tori Kelly<br/><br/>
-         <a href="/#"><h3>Click here for past repertoire</h3></a> 
+         <a href="/PastRep"><h3>Click here for past repertoire</h3></a> 
          <h2 className="major"></h2>
         </div>
       </div>
