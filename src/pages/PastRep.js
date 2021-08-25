@@ -38,7 +38,7 @@ const IndexPage = () => (
                     I Don't Have the Answers - We Are Messengers (arr. Phillip Baik)<br/>
                     When You Believe - Whitney Houston ft. Maria Carey (arr. Joyce Yoon)<br/><br/>
           <h3 className="major">2017-2018</h3>
-                    <br/>
+                    Man in the Mirror - Michael Jackson (arr. Benjamin Low)<br/>
                      <br/>
                      <br/>
                      <br/>
