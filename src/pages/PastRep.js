@@ -17,11 +17,6 @@ const IndexPage = () => (
       <div className="wrapper">
         <div className="inner">
           <h3 className="major yellow">Why mustard seed?</h3>
-          <p>
-            For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, 
-            ‘Move from here to there,’ and it will move, and nothing will be impossible for you.” (Matthew 17:20 ESV)
-          </p>
-
           <h3 className="major yellow">Mission Statement</h3>
           <p className="no-padding">As one of the Christian a cappella groups in Boston, Mustard Seed hopes to share the love of Christ and the transformative power of the Holy Spirit in our lives through song. 
           </p>
