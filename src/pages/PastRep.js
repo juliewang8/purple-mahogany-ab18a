@@ -28,9 +28,9 @@ const IndexPage = () => (
             
                      Deep Water / Brother - American Authors/Kodaline (arr. Matthew Lin)<br/><br/>
           <h3 className="major">2018-2019</h3>
-                     <br/>
-                     <br/>
-                     <br/>
+                    When I Am Afraid - Laura Hackett (arr. Rachel Porter)<br/>
+                    Let my Words be Few - Phillips, Craig, and Dean (arr. Lewis Warren Jr.)<br/>
+                    That's Christmas to Me - Pentatonix (arr. Joyce Yoon)<br/>
                      <br/>
                      <br/>
                      <br/><br/>
