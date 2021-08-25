@@ -36,7 +36,7 @@ const IndexPage = () => (
                     God Only Knows - For King and Country (arr. Phillip Baik) <br/>
                     Gravity - Sara Bareilles<br/>
                     I Don't Have the Answers - We Are Messengers (arr. Phillip Baik)<br/>
-                    When You Believe - Whitney Houston ft. Maria Carey (arr. Joyce Yoon)<br/>
+                    When You Believe - Whitney Houston ft. Maria Carey (arr. Joyce Yoon)<br/><br/>
           <h3 className="major">2017-2018</h3>
                      <br/>
                      <br/>
