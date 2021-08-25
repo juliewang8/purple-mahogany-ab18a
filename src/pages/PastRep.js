@@ -24,7 +24,7 @@ const IndexPage = () => (
                      Never Alone - Tori Kelly (arr. Matthew Lin)<br/>
                      No Roots - Alice Merton (arr. Elizabeth Reigel)<br/>
                      Us - James Bay and Alicia Keys (arr. Ivey Choi)<br/>
-                     <br/>
+                     You Say - Lauren Daigle<br/>
                      <br/>
                      <br/><br/>
           <h3 className="major">2018-2019</h3>
