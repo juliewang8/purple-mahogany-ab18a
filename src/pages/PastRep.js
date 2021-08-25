@@ -41,7 +41,7 @@ const IndexPage = () => (
                     Man in the Mirror - Michael Jackson (arr. Benjamin Low)<br/>
                     Beautiful Things - Gungor (arr. Wesley Pak and David J. Park)<br/>
                     Hollow - Tori Kelly (arr. Jessica Lin)<br/>
-                    Run to You - Pentatonix (arr. PTX and Ben Brahms<br/>
+                    Run to You - Pentatonix (arr. PTX and Ben Brahm)<br/>
                      <br/>
                      <br/><br/>
           <h3 className="major">2018-2019</h3>
