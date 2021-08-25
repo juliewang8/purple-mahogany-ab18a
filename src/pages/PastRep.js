@@ -39,8 +39,8 @@ const IndexPage = () => (
                     When You Believe - Whitney Houston ft. Maria Carey (arr. Joyce Yoon)<br/><br/>
           <h3 className="major">2017-2018</h3>
                     Man in the Mirror - Michael Jackson (arr. Benjamin Low)<br/>
-                     <br/>
-                     <br/>
+                    Beautiful Things - Gungor (arr. Wesley Pak and David J. Park)<br/>
+                    Man <br/>
                      <br/>
                      <br/>
                      <br/><br/>
