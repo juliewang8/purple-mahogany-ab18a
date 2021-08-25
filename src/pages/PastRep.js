@@ -17,10 +17,10 @@ const IndexPage = () => (
       <div className="wrapper">
         <div className="inner">
           <h3 className="major">2020-2021</h3>
-                    <br/>
-        I Wanna Know You - Dante Bowe (arr. Julie Wang) <br/>
-        How Deep is Your Love - PJ Morton ft. Yebba (arr. Hannah Loo)<br/>
-        Hollow - Tori Kelly<br/><br/>
+                     <br/>
+                     <br/>
+                     <br/>
+                     <br/><br/>
           <h3 className="major">2019-2020</h3>
           <h3 className="major">2018-2019</h3>
           <h3 className="major">2017-2018</h3>
