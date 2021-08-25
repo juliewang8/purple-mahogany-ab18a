@@ -19,7 +19,7 @@ const IndexPage = () => (
           <h3 className="major">2020-2021</h3>
                      Changed - Jordan Feliz (arr. Matthew Lin)<br/>
                      Wanted - Danny Gokey (arr. Hannah Loo)<br/>
-                     <br/>
+                     Deep Water / Brother – <br/>
                      <br/>
                      <br/>
                      <br/><br/>
