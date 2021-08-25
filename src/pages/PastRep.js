@@ -40,8 +40,8 @@ const IndexPage = () => (
           <h3 className="major">2017-2018</h3>
                     Man in the Mirror - Michael Jackson (arr. Benjamin Low)<br/>
                     Beautiful Things - Gungor (arr. Wesley Pak and David J. Park)<br/>
-                    Man <br/>
-                     <br/>
+                    Hollow - Tori Kelly (arr. Jessica Lin)<br/>
+                    Run to You - Pentatonix (arr. <br/>
                      <br/>
                      <br/><br/>
           <h3 className="major">2018-2019</h3>
