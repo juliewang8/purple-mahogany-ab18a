@@ -21,9 +21,9 @@ const IndexPage = () => (
                      Wanted - Danny Gokey (arr. Hannah Loo)<br/>
                      Deep Water / Brother – American Authors/Kodaline (arr. Matthew Lin)<br/><br/>
           <h3 className="major">2019-2020</h3>
-                     <br/>
-                     <br/>
-                     <br/>
+                     Never Alone - Tori Kelly (arr. Matthew Lin)<br/>
+                     No Roots - Alice Merton (arr. Elizabeth Reigel)<br/>
+                     Us - James Bay and Alicia Keys (arr. Ivey Choi)<br/>
                      <br/>
                      <br/>
                      <br/><br/>
