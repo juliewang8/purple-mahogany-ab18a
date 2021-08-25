@@ -17,7 +17,7 @@ const IndexPage = () => (
       <div className="wrapper">
         <div className="inner">
           <h3 className="major">2020-2021</h3>
-                     <br/>
+                     Changed - Jordan <br/>
                      <br/>
                      <br/>
                      <br/>
