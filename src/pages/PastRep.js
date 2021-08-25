@@ -33,7 +33,9 @@ const IndexPage = () => (
                     That's Christmas to Me - Pentatonix (arr. Joyce Yoon)<br/>
                     Baba Yetu - Christopher Tin ft. Stanford Talisman (arr. Lee-Shing Chang)<br/>
                     Everglow - Coldplay<br/>
-                    God Only Knows - For King and Country (arr. Phillip Baik) <br/><br/>
+                    God Only Knows - For King and Country (arr. Phillip Baik) <br/>
+                    Gravity - Sara Bareilles<br/>
+                    Gravity - Sara Bareilles<br/>
           <h3 className="major">2017-2018</h3>
                      <br/>
                      <br/>
