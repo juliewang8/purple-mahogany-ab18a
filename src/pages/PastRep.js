@@ -16,8 +16,8 @@ const IndexPage = () => (
 
       <div className="wrapper">
         <div className="inner">
-          <h3 className="major yellow">Why mustard seed?</h3>
-          <h3 className="major yellow">Mission Statement</h3>
+          <h3 className="major">Why mustard seed?</h3>
+          <h3 className="major">Mission Statement</h3>
 
         </div>
       </div>
