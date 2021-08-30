@@ -19,7 +19,7 @@ const IndexPage = () => (
     <section id="banner">
       <div className="inner">
         <div className="logo">
-          <span className="icon fa-heart-o"></span>
+          <span className="icon fa-tree"></span>
         </div>
         <h2>{config.heading}</h2>
         <p>{config.subHeading}</p>
