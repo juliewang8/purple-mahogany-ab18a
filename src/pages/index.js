@@ -19,7 +19,7 @@ const IndexPage = () => (
     <section id="banner">
       <div className="inner">
         <div className="logo">
-          <img src="https://static.wixstatic.com/media/149ad6_dbdf221a507d4096a26f5dd6131e7e05~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_85/149ad6_dbdf221a507d4096a26f5dd6131e7e05~mv2.webp" alt="" />
+          <img src="https://i.imgur.com/CQpJIZf.png" alt="" />
         </div>
         <h2>{config.heading}</h2>
         <p>{config.subHeading}</p>
