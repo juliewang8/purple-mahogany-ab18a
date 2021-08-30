@@ -18,9 +18,9 @@ const IndexPage = () => (
   <Layout>
     <section id="banner">
       <div className="inner">
-        <div className="logo">
+        {/* <div className="logo">
           <img src="https://i.imgur.com/VHTzKHw.png" alt="" />
-        </div>
+        </div> */}
         <h2>{config.heading}</h2>
         <p>{config.subHeading}</p>
       </div>
