@@ -86,7 +86,11 @@ const IndexPage = () => (
           Stand by Me - Ben E. King (arr. T. Phillips)<br/><br/>
           <h3 className="major">2013-2014</h3>
             I Live for You - TrueVibe (arr. David J. Park)<br/>
-            
+            I Love You Lord<br/>
+            I Was Here <br/>
+            Let Me Love You <br/>
+            Sweet Nothing - Calvin Harris ft. Florence Welch (arr. Paul Fang)<br/>
+            There's Hope - India Arie ()
 
           <h3 className="major">2012-2013</h3>
           <h3 className="major">2011-2012</h3>
