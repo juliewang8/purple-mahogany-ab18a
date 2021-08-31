@@ -58,9 +58,10 @@ const IndexPage = () => (
                     Does Your Heart Break? - The Brilliance (arr. Nina Kim)<br/>
                     Forever - Kari Jobe (arr. Nina Kim, Ben Low, Sarah Kwon)<br/>
                     Freedom Medley (arr. Benjamin Low)<br/>
-                     <br/>
-                     <br/>
-                     <br/><br/>
+                    Glory to God - Justin Rizzo (arr. Nate Hunt)<br/>
+                    I Choose - India Arie (arr. AVH)<br/>
+                    Joyful Joyful - Henry Van Dyke (arr. David J. Park)<br/>
+                    <br/>
 
           <h3 className="major">2014-2015</h3>
           <h3 className="major">2013-2014</h3>
