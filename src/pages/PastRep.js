@@ -52,7 +52,7 @@ const IndexPage = () => (
           <h3 className="major">2016-2017</h3>
                     Beautiful Things - Gungor (arr. Wesley Pak and David J. Park)
                      <br/>
-                     <br/>
+                     Does Your Heart Break? - The Brilliance (arr. Nina Kim)<br/>
                      <br/>
                      <br/>
                      <br/>
