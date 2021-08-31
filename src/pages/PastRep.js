@@ -122,7 +122,12 @@ const IndexPage = () => (
             New Soul (Yael Naim) (arr. Wesley Pak)<br/>
             Not Good Enough - TimBeTold (arr. R. Salazar and David J. Park) <br/>
             Beautiful Things - Gungor (arr. Wesley Pak and David J. Park) <br/>
-            I Live for You - TrueVibe (arr. David J. Park)
+            I Live for You - TrueVibe (arr. David J. Park)<br/>
+            Joyful Joyful - Henry van Dyke (arr. David J. Park) <br/>
+            O Happy Day (arr. David J. Park) <br/>
+            Reach for the Light - TimBeTold (arr. R. Salazar and David J. Park) <br/>
+            Shackles - Mary Mary (arr . David J. Park)<br/>
+            
           <h3 className="major">2008-2009</h3>
             All Ye - Coffey Anderson <br/>
             Beautiful Name <br/>
