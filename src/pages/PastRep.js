@@ -128,7 +128,8 @@ const IndexPage = () => (
           Holy - Nichole Nordeman (arr. Kelly Stol)<br/>
           Hope <br/>
           I'm All Yours - Rachel Lampa (arr. Brian Ni and Amy Kim) <br/>
-          
+          I'm Coming Home <br/>
+          In Christ Alone - Stuart Townend (arr. Bran Littrell and Victoria Tseng) <br/>
 
         </div>
       </div>
