@@ -55,9 +55,9 @@ const IndexPage = () => (
                      Does Your Heart Break? - The Brilliance (arr. Nina Kim)<br/>
                      Man in the Mirror - Michael Jackson (arr. Benjamin Low)<br/><br/>
           <h3 className="major">2015-2016</h3>
-                     <br/>
-                     <br/>
-                     <br/>
+                    Does Your Heart Break? - The Brilliance (arr. Nina Kim)<br/>
+                    Forever - Kari Jobe (arr. Nina Kim, Ben Low, Sarah Kwon)<br/>
+                    Freedom Medley (arr. Benjamin Low)<br/>
                      <br/>
                      <br/>
                      <br/><br/>
