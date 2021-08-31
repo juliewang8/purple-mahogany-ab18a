@@ -92,7 +92,9 @@ const IndexPage = () => (
             Sweet Nothing - Calvin Harris ft. Florence Welch (arr. Paul Fang)<br/>
             There's Hope - India Arie (arr. David J. Park)<br/>
             Washed by the Water - NEEDTOBREATHE (arr. R. Salazar)<br/>
-            Right Here (Departed) - 
+            Right Here (Departed) - Brandy <br/>
+            Brave - Sara Bareilles <br/>
+            Burn - Ellie Goulding (arr. Kirk An) <br/>
 
           <h3 className="major">2012-2013</h3>
           <h3 className="major">2011-2012</h3>
