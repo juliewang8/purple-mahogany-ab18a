@@ -16,7 +16,9 @@ const IndexPage = () => (
 
       <div className="wrapper">
         <div className="inner">
-        <img className="image" display= "block" height="auto" src="https://i.imgur.com/uzJcpNs.jpg" />
+        <img className="image" display= "block" margin-left="auto" margin-right="auto"
+  margin-left: auto;
+  margin-right: auto;width="500px" height="auto" src="https://i.imgur.com/uzJcpNs.jpg" />
         <br></br>
         <br></br>
           <h3 className="major yellow">Why mustard seed?</h3>
