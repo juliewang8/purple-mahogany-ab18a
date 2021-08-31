@@ -144,7 +144,8 @@ const IndexPage = () => (
           Simply Love You - Ginny Owens <br/>
           The Real Me<br/>
           Why So Downcast - Marty Nystrom <br/>
-          You are God Alone 
+          You are God Alone - Phillips, Craig, and Dean (arr. Victor Lee)<br/>
+          You Are Loved - Matthew Mole <br/><br/>
 
         </div>
       </div>
