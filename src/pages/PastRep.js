@@ -66,8 +66,8 @@ const IndexPage = () => (
                     Fix You - Coldplay (arr. AVH) <br/>
                     Carry Me Through - Dave Barnes (arr. AVH) <br/>
                     Change in my Life - Rockapella <br/>
-                    Gravity / How Hw Loves - John Mayer and David Crowder (arr. Eric Lee) <br/>
-                    
+                    Gravity / How He Loves - John Mayer and David Crowder (arr. Eric Lee) <br/>
+                    Where is the Love? - Black Eyed Peas (arr. Benjamin Low) <br/>
 
           <h3 className="major">2014-2015</h3>
           <h3 className="major">2013-2014</h3>
