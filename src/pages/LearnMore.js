@@ -16,6 +16,7 @@ const IndexPage = () => (
 
       <div className="wrapper">
         <div className="inner">
+        <img src="https://i.imgur.com/uzJcpNs.jpg" />
           <h3 className="major yellow">Why mustard seed?</h3>
           <p>
             For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, 
