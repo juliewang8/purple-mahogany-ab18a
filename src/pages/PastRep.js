@@ -95,6 +95,10 @@ const IndexPage = () => (
             Right Here (Departed) - Brandy <br/>
             Brave - Sara Bareilles <br/>
             Burn - Ellie Goulding (arr. Kirk An) <br/>
+            Demons - Imagine Dragons <br/>
+            Hold Me Together - Royal Tailor <br/>
+            Home - Phillip Phillips <br/>
+            I Love yOur 
 
           <h3 className="major">2012-2013</h3>
           <h3 className="major">2011-2012</h3>
