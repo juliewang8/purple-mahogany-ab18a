@@ -70,6 +70,11 @@ const IndexPage = () => (
                     Where is the Love? - Black Eyed Peas (arr. Benjamin Low) <br/><br/>
 
           <h3 className="major">2014-2015</h3>
+          Brave - Sara Bareilles<br/>
+          Shackles - Mary Mary (arr. David J. Park)<br/>
+          Dark Side - Kelly Clarkson (arr. Jeffrey Ng)<br/>
+          Man in the Mirror - Michael Jackson (arr. Benjamin Low)<br/>
+          O Come, O Come Emmanuel<br/>
           
           <h3 className="major">2013-2014</h3>
 
