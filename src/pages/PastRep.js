@@ -84,7 +84,7 @@ const IndexPage = () => (
           Love Heals - Jonathan Larson (arr. Eric Tam) <br/>
           Scared to be Alone - TimBeTold (arr. AVH)<br/>
           Stand by Me - Ben E. King (arr. T. Phillips)<br/><br/>
-          
+
           <h3 className="major">2013-2014</h3>
             I Live for You - TrueVibe (arr. David J. Park)<br/>
             I Was Here <br/>
@@ -102,6 +102,7 @@ const IndexPage = () => (
             Unconditionally - Katy Perry (arr. Jeffrey Ng) <br/><br/>
 
           <h3 className="major">2012-2013</h3>
+          
           <h3 className="major">2011-2012</h3>
           <h3 className="major">2008-2009</h3>
           <h3 className="major">pre-2008</h3>
