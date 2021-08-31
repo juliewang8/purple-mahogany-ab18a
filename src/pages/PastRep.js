@@ -75,7 +75,15 @@ const IndexPage = () => (
           Dark Side - Kelly Clarkson (arr. Jeffrey Ng)<br/>
           Man in the Mirror - Michael Jackson (arr. Benjamin Low)<br/>
           O Come, O Come Emmanuel<br/>
-          
+          We All Need Saving - Jon McLaughlin (arr. David J. Park)<br/>
+          When I Am Afraid - Laura Hackett (arr. Rachel Porter)<br/>
+          C.S. Lewis Song - Brooker Fraser (arr. Nina Kim)<br/>
+          Greater - MercyMe (arr. Benjamin Low)<br/>
+          Hope's Anthem - William Matthews (arr. Nina Kim)<br/>
+          Intro - Ariana Grande (arr. Nina Kim)<br/>
+          Love Heals - Jonathan Larson (arr. Eric Tam) <br/>
+          Scared to be Alone - TimBeTold (arr. AVH)<br/>
+          Stand by Me - Ben E. King (arr. T. Phillips)<br/><br/>
           <h3 className="major">2013-2014</h3>
 
           <h3 className="major">2012-2013</h3>
