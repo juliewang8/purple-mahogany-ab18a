@@ -127,7 +127,7 @@ const IndexPage = () => (
             O Happy Day (arr. David J. Park) <br/>
             Reach for the Light - TimBeTold (arr. R. Salazar and David J. Park) <br/>
             Shackles - Mary Mary (arr . David J. Park)<br/>
-            
+            We All Need Saving - Jon mcLaughlin (arr. David J. Park)<br/><br/>
           <h3 className="major">2008-2009</h3>
             All Ye - Coffey Anderson <br/>
             Beautiful Name <br/>
