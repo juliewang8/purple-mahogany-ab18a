@@ -50,7 +50,7 @@ const IndexPage = () => (
                     Make You Feel My Love - Bob Dylan ft. Adele (arr. Jeffrey Wong)<br/><br/>
 
           <h3 className="major">2016-2017</h3>
-          
+                    Beautiful Things - Gungor (arr. Wesley Pak and David J. Park)
                      <br/>
                      <br/>
                      <br/>
