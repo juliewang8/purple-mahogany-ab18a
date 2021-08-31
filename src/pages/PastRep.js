@@ -115,8 +115,12 @@ const IndexPage = () => (
           Time to Come Home (arr. AVH)<br/>
           <br/>
           <h3 className="major">2011-2012</h3>
-            
-
+            Beautiful People (arr. Christine Park) <br/>
+            Less Than Perfect <br/>
+            Listen to Our Hearts - Steven Curtis Chapman and Geoff Moore
+ (arr. Sonia Yuen <br/>
+ My Heart with YOu - The Resecues (arr. David J. Park) <br/>
+ New Soul ())
           <h3 className="major">2008-2009</h3>
             All Ye - Coffey Anderson <br/>
             Beautiful Name <br/>
