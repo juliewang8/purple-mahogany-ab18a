@@ -120,6 +120,15 @@ const IndexPage = () => (
           <h3 className="major">pre-2008</h3>
           Beautiful - Audio Adrenaline<br/>
           Blessed - Rachael Lampa (arr. Emily Schnieder)<br/>
+          Come Save - Sarah Reeves <br/>
+          Days of Elijah - Robin Mark <br/>
+          Does Anybody Hear Her? - Casting Crowns (arr. Emily Horjus) <br/>
+          Give me Your Eyes - Brandon Heath <br/>
+          God is God - Steven Curtis Chapman <br/>
+          Holy - Nichole Nordeman (arr. Kelly Stol)<br/>
+          Hope <br/>
+          I'm All Yours - Rachel Lampa (arr. Brian Ni and Amy Kim) <br/>
+          
 
         </div>
       </div>
