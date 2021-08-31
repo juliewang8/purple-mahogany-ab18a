@@ -61,7 +61,11 @@ const IndexPage = () => (
                     Glory to God - Justin Rizzo (arr. Nate Hunt)<br/>
                     I Choose - India Arie (arr. AVH)<br/>
                     Joyful Joyful - Henry Van Dyke (arr. David J. Park)<br/>
-                    <br/>
+                    Shores - Bryan Torwalt and Katie Torwalt (arr. Nina Kim)<br/>
+                    Something in the Water - Carrie Underwood (arr. Eric Tam) <br/>
+                    Fix You - Coldplay (arr. AVH) <br/>
+                    Carry Me Through - Dave Barnes (arr. AVH) <br/>
+                    Change in my Life - Rockapella <br/>
 
           <h3 className="major">2014-2015</h3>
           <h3 className="major">2013-2014</h3>
