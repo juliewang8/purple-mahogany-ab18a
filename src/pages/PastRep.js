@@ -132,10 +132,10 @@ const IndexPage = () => (
           In Christ Alone - Stuart Townend (arr. Bran Littrell and Victoria Tseng) <br/>
           Killing me Softly - Fugees<br/>
           Lean on Me - Bill Withers <br/>
-          Lose My Soul - Toby ac (arr. Victor Lee) <br/>
+          Lose My Soul - Toby Mac (arr. Victor Lee) <br/>
           Never Alone - Barlow Girl <br/>
-          No matter What <br/>
-          Not to Us - Chris TOmlin <br/>
+          No Matter What <br/>
+          Not to Us - Chris Tomlin <br/>
           Only hope - Jon Foreman <br/>
           Over the Rainbow - Glee Case (arr. Wesley Pak)<br/>
           Prayer of St. Francis - Sarah mcLachlan <br/>
