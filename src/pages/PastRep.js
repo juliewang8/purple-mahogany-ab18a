@@ -138,7 +138,12 @@ const IndexPage = () => (
           Not to Us - Chris TOmlin <br/>
           Only hope - Jon Foreman <br/>
           Over the Rainbow - Glee Case (arr. Wesley Pak)<br/>
-          Prayer of St. Francis ()
+          Prayer of St. Francis - Sarah mcLachlan <br/>
+          Rescue - Desperation Band <br/>
+          Say Won't You Say - Jennifer Knnapp (arr. Alison Farielli)<br/>
+          Simply Love You - Ginny Owens <br/>
+          The Real Me<br/>
+          Why So Downcast - Marty Nystrom <br/>
 
         </div>
       </div>
