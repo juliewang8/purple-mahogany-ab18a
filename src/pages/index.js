@@ -65,7 +65,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
       <section id="three" className="wrapper spotlight style3">
         <div className="inner">
           <a href="/Members" className="image">
-            <img src="https://static.wixstatic.com/media/149ad6_ea3b42b28cf74fe1ab1f50c9fde91b6d~mv2.png/v1/fill/w_1171,h_1171,al_c,q_90/149ad6_ea3b42b28cf74fe1ab1f50c9fde91b6d~mv2.webp" alt="" />
+            <img src="https://static.wixstatic.com/media/149ad6_dbdf221a507d4096a26f5dd6131e7e05~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_85/149ad6_dbdf221a507d4096a26f5dd6131e7e05~mv2.webp" alt="" />
           </a>
           <div className="content">
             <h2 className="major">Meet the Seeds</h2>
