@@ -130,6 +130,15 @@ const IndexPage = () => (
           I'm All Yours - Rachel Lampa (arr. Brian Ni and Amy Kim) <br/>
           I'm Coming Home <br/>
           In Christ Alone - Stuart Townend (arr. Bran Littrell and Victoria Tseng) <br/>
+          Killing me Softly - Fugees<br/>
+          Lean on Me - Bill Withers <br/>
+          Lose My Soul - Toby ac (arr. Victor Lee) <br/>
+          Never Alone - Barlow Girl <br/>
+          No matter What <br/>
+          Not to Us - Chris TOmlin <br/>
+          Only hope - Jon Foreman <br/>
+          Over the Rainbow - Glee Case (arr. Wesley Pak)<br/>
+          
 
         </div>
       </div>
