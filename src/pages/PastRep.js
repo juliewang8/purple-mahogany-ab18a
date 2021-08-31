@@ -118,7 +118,8 @@ const IndexPage = () => (
 
           <h3 className="major">2008-2009</h3>
           <h3 className="major">pre-2008</h3>
-          Beau
+          Beautiful - Audio Adrenaline<br/>
+          Blessed - Rachael Lampa (arr. Emily Schneider)<br/>
 
         </div>
       </div>
