@@ -68,6 +68,7 @@ const IndexPage = () => (
         How Deep is Your Love - PJ Morton ft. Yebba (arr. Hannah Loo)<br/>
         Hollow - Tori Kelly<br/>
         Rather Be - Clean Bandit ft. Jess Glynn (arr. Timothy Li)<br/>
+        <br></br>
          <a href="/PastRep"><h3>Click here for past repertoire</h3></a> 
          <h2 className="major"></h2>
         </div>
