@@ -53,7 +53,7 @@ const IndexPage = () => (
                     Beautiful Things - Gungor (arr. Wesley Pak and David J. Park)
                      <br/>
                      Does Your Heart Break? - The Brilliance (arr. Nina Kim)<br/>
-                     <br/>
+                     Man in the Mirror - Michael Jackson (arr. Benjamin Low)<br/>
                      <br/>
                      <br/>
                      <br/><br/>
