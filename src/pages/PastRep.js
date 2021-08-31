@@ -138,7 +138,7 @@ const IndexPage = () => (
           Not to Us - Chris TOmlin <br/>
           Only hope - Jon Foreman <br/>
           Over the Rainbow - Glee Case (arr. Wesley Pak)<br/>
-          
+          Prayer of St. Francis ()
 
         </div>
       </div>
