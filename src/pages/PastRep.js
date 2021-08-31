@@ -86,7 +86,6 @@ const IndexPage = () => (
           Stand by Me - Ben E. King (arr. T. Phillips)<br/><br/>
           <h3 className="major">2013-2014</h3>
             I Live for You - TrueVibe (arr. David J. Park)<br/>
-            I Love You Lord<br/>
             I Was Here <br/>
             Let Me Love You <br/>
             Sweet Nothing - Calvin Harris ft. Florence Welch (arr. Paul Fang)<br/>
@@ -98,7 +97,8 @@ const IndexPage = () => (
             Demons - Imagine Dragons <br/>
             Hold Me Together - Royal Tailor <br/>
             Home - Phillip Phillips <br/>
-            I Love yOur 
+            I Love You Lord - Petra<br/>
+            Unconditionally - Katy Perry (arr. Jeffrey Ng) <br/><br/>
 
           <h3 className="major">2012-2013</h3>
           <h3 className="major">2011-2012</h3>
