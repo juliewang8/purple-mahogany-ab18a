@@ -102,6 +102,11 @@ const IndexPage = () => (
             Unconditionally - Katy Perry (arr. Jeffrey Ng) <br/><br/>
 
           <h3 className="major">2012-2013</h3>
+          Above All - Michael W. Smith (arr. AVH)<br/>
+          Fix You - Coldplay (arr. AVH)<br/>
+          Right Here (Departed) - Brandy<br/>
+          Scared to be Alone - TimBeTold (arr. AVH)<br/>
+          We Live - Superchick (arr. AVH)<br/>
           
           <h3 className="major">2011-2012</h3>
           <h3 className="major">2008-2009</h3>
