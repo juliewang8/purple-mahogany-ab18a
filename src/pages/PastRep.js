@@ -117,6 +117,17 @@ const IndexPage = () => (
           <h3 className="major">2011-2012</h3>
 
           <h3 className="major">2008-2009</h3>
+            All Ye - Coffey Anderson <br/>
+            Beautiful Name <br/>
+            Blessed - Rachael Lampa (arr. Emily Schnieder) <br/>
+            Legacy - Nichole Nordeman (arr. Victoria Tseng)<br/>
+            O Come, O Come Emmanuel <br/>
+            Only the World - Mandisa 
+            <br/>
+            Revolution - Kirk Franklin and Rodney Jerkins (arr. Emily Schnieder)<br/>
+            Stained Glass Masquerade - Mark Hall and Nichole Nordeman <br/>
+            Voice of Truth - Casting Crowns (arr. Andrew Lee) <br/>
+
           <h3 className="major">pre-2008</h3>
           Beautiful - Audio Adrenaline<br/>
           Blessed - Rachael Lampa (arr. Emily Schnieder)<br/>
