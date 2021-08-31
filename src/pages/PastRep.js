@@ -54,7 +54,7 @@ const IndexPage = () => (
                      <br/>
                      Does Your Heart Break? - The Brilliance (arr. Nina Kim)<br/>
                      Man in the Mirror - Michael Jackson (arr. Benjamin Low)<br/>
-                     Ho<br/>
+                     <br/>
                      <br/>
                      <br/><br/>
           <h3 className="major">2015-2016</h3>
