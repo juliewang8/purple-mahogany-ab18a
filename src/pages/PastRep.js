@@ -107,6 +107,12 @@ const IndexPage = () => (
           Right Here (Departed) - Brandy<br/>
           Scared to be Alone - TimBeTold (arr. AVH)<br/>
           We Live - Superchick (arr. AVH)<br/>
+          Carry Me Through - Dave Barnes (arr. AVH)<br/>
+          I Choose - India Arie (arr. AVH) <br/>
+          Lament - TimBeTold (arr. D. Suh) <br/>
+          My Heart With You - The Rescues (arr. David J. Park)<br/>
+          Shake it Out - Florence + the Machine (arr. AVH) <br/>
+          Time to Come Home (arr. AVH)<br/>
           
           <h3 className="major">2011-2012</h3>
           <h3 className="major">2008-2009</h3>
