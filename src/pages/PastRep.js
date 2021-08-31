@@ -137,7 +137,7 @@ const IndexPage = () => (
           No Matter What <br/>
           Not to Us - Chris Tomlin <br/>
           Only hope - Jon Foreman <br/>
-          Over the Rainbow - Glee Case (arr. Wesley Pak)<br/>
+          Over the Rainbow - Glee Cast (arr. Wesley Pak)<br/>
           Prayer of St. Francis - Sarah mcLachlan <br/>
           Rescue - Desperation Band <br/>
           Say Won't You Say - Jennifer Knnapp (arr. Alison Farielli)<br/>
