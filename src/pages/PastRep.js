@@ -119,7 +119,10 @@ const IndexPage = () => (
             Less Than Perfect <br/>
             Listen to Our Hearts - Steven Curtis Chapman and Geoff Moore (arr. Sonia Yuen) <br/>
             My Heart with You - The Rescues (arr. David J. Park) <br/>
-            New Soul ())
+            New Soul (Yael Naim) (arr. Wesley Pak)<br/>
+            Not Good Enough - TimBeTold (arr. R. Salazar and David J. Park) <br/>
+            Beautiful Things - Gungor (arr. Wesley Pak and David J. Park) <br/>
+            I Live for You - TrueVibe (arr. David J. Park)
           <h3 className="major">2008-2009</h3>
             All Ye - Coffey Anderson <br/>
             Beautiful Name <br/>
