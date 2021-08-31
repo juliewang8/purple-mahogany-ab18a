@@ -113,7 +113,7 @@ const IndexPage = () => (
           My Heart With You - The Rescues (arr. David J. Park)<br/>
           Shake it Out - Florence + the Machine (arr. AVH) <br/>
           Time to Come Home (arr. AVH)<br/>
-          
+          <br/>
           <h3 className="major">2011-2012</h3>
           <h3 className="major">2008-2009</h3>
           <h3 className="major">pre-2008</h3>
