@@ -22,7 +22,6 @@ const IndexPage = () => (
         </div> 
         <br/>
         <br/>
-        <br/>
         <h2>{config.heading}</h2>
         <p>{config.subHeading}</p>
       </div>
