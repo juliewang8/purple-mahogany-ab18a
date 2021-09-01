@@ -9,7 +9,7 @@ export default function Footer() {
 Whether you have questions about auditions, want to book Mustard Seed for an event, or if you just wanna chat, 
 feel free to shoot us an email or find us on our social medias!
         </p>
-        <form method="POST" action="https://formsubmit.co/bumseed@gmail.com">
+        <form method="POST" action="https://formsubmit.co/e0810f6d777dea94d9dbf4ef12fd0cf2">
           <div className="fields">
             <div className="field">
               <label htmlFor="name">Name</label>
