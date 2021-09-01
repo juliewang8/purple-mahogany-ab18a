@@ -61,7 +61,7 @@ const IndexPage = () => (
                                 </div>
 
                         <h3 className="nopadding align-center yellow">Timothy Li</h3><p className="lesspadding align-center">TREASURER</p>
-                        <p className="nopadding align-center">Alto – NEU'23</p> <p className="nopadding align-center">she/her | ISFP | Type 9</p>
+                        <p className="nopadding align-center">Tenor – BU'22</p> <p className="nopadding align-center">she/her | ISFP | Type 9</p>
                         </div>
 
 
@@ -76,7 +76,7 @@ const IndexPage = () => (
                                 </div>
 
                         <h3 className="nopadding align-center yellow">Julia Chang</h3><p className="lesspadding align-center">SECRETARY</p>
-                        <p className="nopadding align-center">Alto – NEU'23</p> <p className="nopadding align-center">she/her | ISFP | Type 9</p>
+                        <p className="nopadding align-center">Alto – BU'23</p> <p className="nopadding align-center">she/her | ISFP | Type 9</p>
                         </div>
 
                         <div className="col-4">
