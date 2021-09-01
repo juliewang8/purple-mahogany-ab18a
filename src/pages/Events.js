@@ -70,7 +70,7 @@ const IndexPage = () => (
 
              <article>
               <a href="/UnityInDiscomfort" className="image">
-                <img src={pic7} alt="" />
+                <img src="https://i.imgur.com/vfsaOqJ.png?1" alt="" />
               </a>
               <h3 className="major">Unity in Discomfort</h3>
               <p>
