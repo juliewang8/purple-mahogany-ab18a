@@ -29,8 +29,6 @@ const IndexPage = () => (
           Feel free to reach out to us with any questions and we look forward to hearing from you!
           </p>
 
-          <h3 className="major yellow">More information</h3>
-
         </div>
       </div>
     </section>
