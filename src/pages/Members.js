@@ -171,8 +171,8 @@ const IndexPage = () => (
                                     <img src="https://static.wixstatic.com/media/149ad6_ae00b1aa2c1d45b08b3010dea5cc824f~mv2.jpg/v1/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/becky_edited.webp"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
-                                            <p class="image fit description">Jenna is a junior studying Painting, Art History, and Statistics at Boston University. 
-                        On the rare occasions when she is not reading or making art, she can be found deep in the woods attempting to befriend squirrels.</p>
+                                            <p class="image fit description">becks two favorite things in life are making tik tok dances with friends and his dog tinker. he is a psychology major hoping to go into social work to support and care for the lgbtq+ community! 
+</p>
                                         </div>
                                 </div>
 
