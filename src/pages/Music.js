@@ -26,6 +26,10 @@ const IndexPage = () => (
           for the second half of the Spring '20 semester and the entirety of the Fall '20 semester, 
           we decided to record some of our songs and get them mixed into an album. In this album you'll also find songs performed by alumni that we are honored
           to release alongside songs from our current members.</p>
+          <center>
+            <img width="300px" className="image" src="https://i.imgur.com/MKLFc6m.png"></img>
+          </center>
+          <br></br>
           <p>
           The name <i>metamorphosis</i> is representative of the transformation that we have in Jesus Christ, a theme 
           that is woven throughout the lyrics of these five songs. From cries of desperation to shouts of joy, Metamorphosis represents the journeys that we take as believers.</p>
