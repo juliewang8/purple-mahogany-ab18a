@@ -76,7 +76,7 @@ const IndexPage = () => (
               <p>
                  A Conversation about Gender and Sexuality in the A Cappella Community
               </p>
-              <a href="/FCSConcert" className="special">
+              <a href="/UnityInDiscomfort" className="special">
                 Learn more
               </a>
             </article>
