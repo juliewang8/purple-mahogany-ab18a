@@ -13,7 +13,6 @@ const IndexPage = () => (
           <h2>For Christ's Sake A Cappella Benefit Concert</h2>
         </div>
       </header>
-</br>
       <div className="wrapper">
         <div className="inner">
         <center><img className="image" width="300px" src="https://i.imgur.com/FicUtQt.png"></img></center><br/>
