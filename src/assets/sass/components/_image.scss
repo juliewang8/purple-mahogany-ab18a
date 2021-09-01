@@ -109,9 +109,9 @@
             opacity:1
         }        
 
-        &.overlay:hover > * {
-            transform: translateY(0);
-        }
+        // &.overlay:hover > * {
+        //     transform: translateY(0);
+        // }
 
         &.title {
             font-size: 2em;
