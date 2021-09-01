@@ -184,8 +184,8 @@ const IndexPage = () => (
                                     <img src="https://static.wixstatic.com/media/149ad6_c02c3eb2af214b6dbcaad0b996f1a45e~mv2.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/joon_edited.webp"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
-                                            <p class="image fit description">Jenna is a junior studying Painting, Art History, and Statistics at Boston University. 
-                        On the rare occasions when she is not reading or making art, she can be found deep in the woods attempting to befriend squirrels.</p>
+                                            <p class="image fit description">Joon is a elementary education major who loves watching movies or listening to music. He is from Fort Lee, NJ and loves sweet potato casserole 
+</p>
                                         </div>
                                 </div>
 
