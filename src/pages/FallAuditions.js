@@ -25,7 +25,7 @@ const IndexPage = () => (
           and a social event. 
           <br/><br/>
             Auditions this year will be held on Saturday, 9/11 from 2-6 PM AND Sunday, 9/12 from 2-6 PM. 
-            Check out THIS WEBSITE for more information, and sign up for auditions HERE.
+            Check out THIS WEBSITE for more information, and sign up for auditions <a href="https://docs.google.com/forms/d/1LjR3jaxAs4TdpHVfu0H3D_NzbFKOu8oSkv9iMBPQLio/edit">.
           Feel free to reach out to us with any questions and we look forward to hearing from you!
           </p>
 
