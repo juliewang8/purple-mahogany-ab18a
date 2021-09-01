@@ -47,7 +47,7 @@ const IndexPage = () => (
                 <img src={pic4} alt="" />
               </a>
               <h3 className="major">Spring 2021 Showcase</h3>
-              <a href="/#" className="special">
+              <a href="/S" className="special">
                 See more
               </a>
             </article>
