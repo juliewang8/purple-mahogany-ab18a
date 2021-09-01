@@ -55,8 +55,8 @@ const IndexPage = () => (
                                     <img src="https://static.wixstatic.com/media/149ad6_5781cd442b714590b69f1f6993f94950~mv2.jpg/v1/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/tim_edited.webp" alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
-                                            <p class="image fit description">Jenna is a junior studying Painting, Art History, and Statistics at Boston University. 
-                        On the rare occasions when she is not reading or making art, she can be found deep in the woods attempting to befriend squirrels.</p>
+                                            <p class="image fit description">As a Boston University Finance major and Economics minor, his mind is in Boston yet his heart is in Hong Kong (figuratively speaking). He has an idiosyncratic set of hobbies that range from investing to working on a start-up to cooking Bo Zai Fan and even perfecting his behind-the-back Billiards cue shot.
+</p>
                                         </div>
                                 </div>
 
