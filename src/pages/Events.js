@@ -21,7 +21,7 @@ const IndexPage = () => (
           <section className="features">
             <article>
               <a href="/FallAuditions" className="image">
-                <img src={pic4} alt="" />
+                <img src="https://i.imgur.com/lTJ2MqL.jpg?1" alt="" />
               </a>
               <h3 className="major">Fall 2021 auditions soon!</h3>
               <p>
