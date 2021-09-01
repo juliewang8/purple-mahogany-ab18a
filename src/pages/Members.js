@@ -144,8 +144,7 @@ const IndexPage = () => (
                                     <img src="https://static.wixstatic.com/media/149ad6_2037c41e557e4e0d90bc0a81f59b650f~mv2.jpg/v1/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/amanda%2520for%2520edit_edited.webp"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
-                                            <p class="image fit description">Jenna is a junior studying Painting, Art History, and Statistics at Boston University. 
-                        On the rare occasions when she is not reading or making art, she can be found deep in the woods attempting to befriend squirrels.</p>
+                                            <p class="image fit description">Outside of Mustard Seed, Amanda likes to crochet, watch crime shows, and defend the use of the Oxford comma (all at the same time).</p>
                                         </div>
                                 </div>
 
