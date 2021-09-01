@@ -16,8 +16,10 @@ const IndexPage = () => (
 
       <div className="wrapper">
         <div className="inner">
+        <center>
+            <img className="image" src="https://i.imgur.com/L6VN7Dt.jpg?1"></img>
+        </center>
           <p>
-
           We will be in person for the Fall 2021 Semester!! 
           Auditions will be held at Boston University’s CAS building in September. 
           The audition cycle typically consists of the initial audition where 
