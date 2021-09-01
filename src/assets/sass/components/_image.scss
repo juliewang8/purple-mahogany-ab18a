@@ -100,10 +100,10 @@
             // background: #009578;
         }
 
-        &.overlay > * {
-            transform: translateY(20px);
-            transition: transform 0.25s;
-        }   
+        // &.overlay > * {
+        //     transform: translateY(20px);
+        //     transition: transform 0.25s;
+        // }   
 
         &.overlay:hover {
             opacity:1
