@@ -176,7 +176,7 @@ const IndexPage = () => (
                                 </div>
 
                         <h3 className="nopadding align-center yellow">Becks Loo</h3>
-                        <p className="nopadding align-center"> – BU'22</p> <p className="nopadding align-center">she/her | ISFP | Type 9</p>
+                        <p className="nopadding align-center"> – BU'22</p> <p className="nopadding align-center">he/his | ISFP | Type 9</p>
                         </div>
 
                         <div className="col-4">
