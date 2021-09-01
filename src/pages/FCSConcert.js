@@ -16,7 +16,7 @@ const IndexPage = () => (
 
       <div className="wrapper">
         <div className="inner">
-        <img className="image" width="300px" src="https://i.imgur.com/FicUtQt.png"></img>
+        <center><img className="image" width="300px" src="https://i.imgur.com/FicUtQt.png"></img>
           <p>
 In the Spring 2021 semester, one of our group’s goal was to outreach to the community around us. So, we were honored to be invited by UC Berkeley’s For Christ’s Sake to participate in the Nationwide Christian A Cappella Benefit Concert. Our recording of “Brother x Deep Water”, a mashup by Kodaline and American Authors played at the show. In collaboration with a cappella groups all over the country, we were able to raise funds for various charitable foundations. Considering those in the area around us, Mustard Seed chose Boston Healthcare for the Homeless, who has been distributing COVID vaccines to the homeless and marginally house individuals. Praise the Lord we raised almost $150 for the organization. 
           </p>
