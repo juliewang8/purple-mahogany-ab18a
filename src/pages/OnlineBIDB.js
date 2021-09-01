@@ -24,6 +24,7 @@ Mustard Seed had the honor of virtually hosting the annual “Break it Down Bost
 We were even able to put together the traditional group song: Check out “The Lord Bless You and Keep You” <a href="https://www.youtube.com/watch?v=VFNsSdiQuhc">HERE</a>. 
           </p>
           <center><img className="image" width="300px" src="https://i.imgur.com/lnoNSSZ.png"></img></center>
+          <br></br>
           <p>
 The theme of the night was “Towards the Son”. With the struggles that have come along with the past year, many have had a difficult time. But in this darkness there is a constant and loving light we can look towards and depend on. Jesus is the son and sun (haha)- a model of how to fully trust in God’s love for us and also the light we are moving towards. 
           </p>
