@@ -93,7 +93,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
           <section className="features">
             <article>
               <a href="/FallAuditions" className="image">
-                <img src={pic4} alt="" />
+                <img src="https://i.imgur.com/guLgGZH.png?1" alt="" />
               </a>
               <h3 className="major">Fall 2021 auditions soon!</h3>
               <p>
