@@ -33,7 +33,7 @@ const IndexPage = () => (
             </article>
             <article>
               <a href="/SpringShowcase" className="image">
-                <img src="https://i.imgur.com/BRCE5xF.png" alt="" />
+                <img src="https://i.imgur.com/guLgGZH.png?2" alt="" />
               </a>
               <h3 className="major">Spring 2021 Showcase</h3>
               <p>
