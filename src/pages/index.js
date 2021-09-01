@@ -30,10 +30,10 @@ const IndexPage = () => (
       <section id="one" className="wrapper spotlight style1">
         <div className="inner">
             <div width="200px" height="200px" overflow="hidden">
-          <a href="/LearnMore" className="image">
-            {/* <img src="https://static.wixstatic.com/media/149ad6_dbdf221a507d4096a26f5dd6131e7e05~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_85/149ad6_dbdf221a507d4096a26f5dd6131e7e05~mv2.webp" alt="" /> */}
-            <img src="https://i.imgur.com/7C3PTLH.jpg" alt="" />
-          </a>
+                <a href="/LearnMore" className="image">
+                    {/* <img src="https://static.wixstatic.com/media/149ad6_dbdf221a507d4096a26f5dd6131e7e05~mv2.jpg/v1/fill/w_2000,h_2000,al_c,q_85/149ad6_dbdf221a507d4096a26f5dd6131e7e05~mv2.webp" alt="" /> */}
+                    <img src="https://i.imgur.com/7C3PTLH.jpg" alt="" />
+                </a>
           </div>
           <div className="content">
             <h2 className="major">Why mustard seed?</h2>
