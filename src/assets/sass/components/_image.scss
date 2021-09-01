@@ -91,7 +91,10 @@
             overflow-x: hidden;
             overflow-y: scroll;
         }
-        &.overlay::webs-
+        
+        &.overlay::-webkit-scrollbar {
+            display: none
+        }
 
         &.overlay--blur {
             filter: blur(15px)
