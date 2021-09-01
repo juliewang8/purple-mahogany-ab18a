@@ -18,7 +18,7 @@ const IndexPage = () => (
   <Layout>
     <section id="banner">
       <div className="inner">
-         <div style={{borderRadius:100%}}>
+         <div style={{borderRadius:100}}>
           <img src="https://i.imgur.com/VAm8oLG.png?1" alt="" />
         </div> 
         <h2>{config.heading}</h2>
