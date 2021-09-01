@@ -11,14 +11,14 @@ feel free to shoot us an email or find us on our social medias!
         </p>
         <form method="post" action="mailto:bumseed@gmail.com?subject=A message from your website!" enctype="multipart/form-data">
           <div className="fields">
-            {/* <div className="field"> */}
+            <div className="field">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
-            {/* </div> */}
-            {/* <div className="field"> */}
+            </div>
+            <div className="field">
               <label htmlFor="email">Email</label>
               <input type="email" name="email" id="email" />
-            {/* </div> */}
+            </div>
             <div className="field">
               <label htmlFor="message">Message</label>
               <textarea name="message" id="message" rows="4"></textarea>
