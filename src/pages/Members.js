@@ -157,8 +157,8 @@ const IndexPage = () => (
                                     <img src="https://static.wixstatic.com/media/149ad6_977ca8610f69499e85eab44c5751a82e~mv2.jpg/v1/crop/x_0,y_20,w_2000,h_1960/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/anabelle_edited.webp"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
-                                            <p class="image fit description">Jenna is a junior studying Painting, Art History, and Statistics at Boston University. 
-                        On the rare occasions when she is not reading or making art, she can be found deep in the woods attempting to befriend squirrels.</p>
+                                            <p class="image fit description">Anabelle frequently surprises the group with random facts. Ask her about a topic, and she may know something about it. 
+</p>
                                         </div>
                                 </div>
 
