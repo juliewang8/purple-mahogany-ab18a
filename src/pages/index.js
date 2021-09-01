@@ -20,6 +20,9 @@ const IndexPage = () => (
          <div style={{width: "100px", height: "100px"}}>
           <img src="https://i.imgur.com/GShsA7c.png?1" alt="" />
         </div> 
+        <br/>
+        <br/>
+        <br/>
         <h2>{config.heading}</h2>
         <p>{config.subHeading}</p>
       </div>
