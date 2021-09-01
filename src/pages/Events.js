@@ -57,7 +57,7 @@ const IndexPage = () => (
             </article>
             <article>
               <a href="/FCSConcert" className="image">
-                <img src={pic7} alt="" />
+                <img src="https://i.imgur.com/BLVdrU9.png?1" alt="" />
               </a>
               <h3 className="major">FCS A Cappella Benefit Concert</h3>
               <p>
