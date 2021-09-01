@@ -22,8 +22,10 @@ const IndexPage = () => (
           Auditions will be held at Boston University’s CAS building in September. 
           The audition cycle typically consists of the initial audition where 
           auditionees sing a verse and chorus of a song for the group, callbacks, 
-          and a social event. Dates and details are still yet to be determined but keep an 
-          eye out on our website and social media channels for more details as the Fall semester gets closer. 
+          and a social event. 
+          <br/><br/>
+            Auditions this year will be held on Saturday, 9/11 from 2-6 PM AND Sunday, 9/12 from 2-6 PM. 
+            Check out THIS WEBSITE for more information, and sign up for auditions HERE.
           Feel free to reach out to us with any questions and we look forward to hearing from you!
           </p>
 
