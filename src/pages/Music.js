@@ -42,24 +42,7 @@ const IndexPage = () => (
           </p>
 
           <section className="features">
-            <article>
-              <a href="/#" className="image">
-                <img src={pic4} alt="" />
-              </a>
-              <h3 className="major">Spring 2021 Showcase</h3>
-              <a href="/S" className="special">
-                See more
-              </a>
-            </article>
-            <article>
-              <a href="/#" className="image">
-                <img src={pic5} alt="" />
-              </a>
-              <h3 className="major">Fall 2019 Concert</h3>
-              <a href="/#" className="special">
-                See more
-              </a>
-            </article>
+            
           </section>
          <h2 className="major">Repertoire</h2>
          <h3>Current</h3>
