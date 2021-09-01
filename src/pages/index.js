@@ -105,7 +105,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
             </article>
             <article>
               <a href="/SpringShowcase" className="image">
-                <img height="130px" src="https://i.imgur.com/BRCE5xF.png" alt="" />
+                <img height="125px" src="https://i.imgur.com/BRCE5xF.png" alt="" />
               </a>
               <h3 className="major">Spring 2021 Showcase</h3>
               <p>
