@@ -117,7 +117,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
             </article>
             <article>
               <a href="/OnlineBIDB" className="image">
-                <img src={pic6} alt="" />
+                <img src="https://i.imgur.com/I7u4ipR.png?1" alt="" />
               </a>
               <h3 className="major">Online BIDB 2021</h3>
               <p>
