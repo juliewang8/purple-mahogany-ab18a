@@ -49,7 +49,7 @@ The parable of the <i>mustard seed</i> is a story about a small dose of faith ac
         <div className="inner">
           <a href="/Music" className="image">
           <div width="200px" height="200px" overflow="hidden">
-            <img src="https://i.imgur.com/L6VN7Dt.jpg" alt="" />
+            <img src="https://i.imgur.com/L6VN7Dt.jpg?1" alt="" />
             </div>
           </a>
           <div className="content">
