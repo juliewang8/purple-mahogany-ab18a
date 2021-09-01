@@ -18,8 +18,8 @@ const IndexPage = () => (
   <Layout>
     <section id="banner">
       <div className="inner">
-         <div>
-          <img border-radius="100%" src="https://i.imgur.com/VAm8oLG.png?1" alt="" />
+         <div border-radius="100%">
+          <img src="https://i.imgur.com/VAm8oLG.png?1" alt="" />
         </div> 
         <h2>{config.heading}</h2>
         <p>{config.subHeading}</p>
