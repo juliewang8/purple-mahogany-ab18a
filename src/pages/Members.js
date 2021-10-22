@@ -168,6 +168,21 @@ const IndexPage = () => (
 
                         <div className="col-4">
                                 <div className="image fit wrap">
+                                    <img src="https://static.wixstatic.com/media/149ad6_977ca8610f69499e85eab44c5751a82e~mv2.jpg/v1/crop/x_0,y_20,w_2000,h_1960/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/anabelle_edited.webp"alt="" className="image fit img"/>
+                                        <div className="image fit overlay overlay-primary">
+                                            <div class="image fit title">title</div>
+                                            <p class="image fit description">Anabelle frequently surprises the group with random facts. Ask her about a topic, and she may know something about it. 
+</p>
+                                        </div>
+                                </div>
+
+                        <h3 className="nopadding align-center yellow">Anabelle Lee</h3>
+                        <p className="nopadding align-center">Alto – BU'22</p> <p className="nopadding align-center">she/her | ISFP | Type 2</p>
+                        </div>
+
+
+                        <div className="col-4">
+                                <div className="image fit wrap">
                                     <img src="https://static.wixstatic.com/media/149ad6_c02c3eb2af214b6dbcaad0b996f1a45e~mv2.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/joon_edited.webp"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
