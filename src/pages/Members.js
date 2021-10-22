@@ -217,7 +217,7 @@ const IndexPage = () => (
                                 </div>
 
                         <h3 className="nopadding align-center yellow">David Leigh</h3>
-                        <p className="nopadding align-center">Baritone – BU'22</p> <p className="nopadding align-center">he/his | INFP | Type 2</p>
+                        <p className="nopadding align-center">Bass/Vocal Percussion – BU'22</p> <p className="nopadding align-center">he/his | INFP | Type 2</p>
                         </div>
 
                         <div className="col-4">
