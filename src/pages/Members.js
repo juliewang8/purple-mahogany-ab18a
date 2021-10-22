@@ -168,19 +168,6 @@ const IndexPage = () => (
 
                         <div className="col-4">
                                 <div className="image fit wrap">
-                                    <img src="https://i.imgur.com/x7BR8fv.jpg?1"alt="" className="image fit img"/>
-                                        <div className="image fit overlay overlay-primary">
-                                            <div class="image fit title">title</div>
-                                            <p class="image fit description">becks two favorite things in life are making tik tok dances with friends and his dog tinker. he is a psychology major hoping to go into social work to support and care for the lgbtq+ community! </p>
-                                        </div>
-                                </div>
-
-                        <h3 className="nopadding align-center yellow">Becks Loo</h3>
-                        <p className="nopadding align-center">Baritone – BU'22</p> <p className="nopadding align-center">he/his | INFP | Type 2</p>
-                        </div>
-
-                        <div className="col-4">
-                                <div className="image fit wrap">
                                     <img src="https://static.wixstatic.com/media/149ad6_c02c3eb2af214b6dbcaad0b996f1a45e~mv2.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/joon_edited.webp"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
