@@ -24,7 +24,7 @@ const IndexPage = () => (
 
                         <div className="col-4">
                                 <div className="image fit wrap">
-                                    <img src="https://i.imgur.com/PD3nEsN.jpg?1" alt="" className="image fit img"/>
+                                    <img src="https://i.imgur.com/PD3nEsN.jpg?1" alt="" width="300px" height="auto" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
                                             <p class="image fit description">Jenna is a junior studying Painting, Art History, and Statistics at Boston University. 
