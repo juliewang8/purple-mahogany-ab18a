@@ -52,7 +52,7 @@ const IndexPage = () => (
 
                         <div className="col-4">
                                 <div className="image fit wrap">
-                                    <img src="https://i.imgur.com/SXRwxaG.jpg" alt="" width className="image fit img"/>
+                                    <img src="https://i.imgur.com/SXRwxaG.jpg" alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
                                             <p class="image fit description">As a Boston University Finance major and Economics minor, his mind is in Boston yet his heart is in Hong Kong (figuratively speaking). He has an idiosyncratic set of hobbies that range from investing to working on a start-up to cooking Bo Zai Fan and even perfecting his behind-the-back Billiards cue shot.
