@@ -67,7 +67,7 @@ const IndexPage = () => (
 
                         <div className="col-4">
                                 <div className="image fit wrap">
-                                    <img src="https://static.wixstatic.com/media/149ad6_bdf034fba9f34c13a5baa8dd56f79e10~mv2.jpg/v1/crop/x_472,y_152,w_1466,h_1466/fill/w_286,h_286,al_c,q_80,usm_0.66_1.00_0.01/juila_edited.webp"alt="" className="image fit img"/>
+                                    <img src="https://i.imgur.com/JnnZItp.jpg"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
                                             <p class="image fit description">Julia is a junior studying MIS and the Health and Life Sciences Sector at BU. Her perfect day would have to consist of eating a harvest bowl from sweetgreen, watching a thriller movie, and taking a walk in a garden. 
