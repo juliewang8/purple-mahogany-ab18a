@@ -221,7 +221,7 @@ const IndexPage = () => (
 
                         <div className="col-4">
                                 <div className="image fit wrap">
-                                    <img src="https://static.wixstatic.com/media/149ad6_18e74471b2b3478cbf87e5e9d0ad0279~mv2.jpg/v1/crop/x_112,y_88,w_954,h_934/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/stefan_JPG.webp"alt="" className="image fit img"/>
+                                    <img src="https://i.imgur.com/hHyHCrF.jpg"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
                                             <p class="image fit description">While studying computer engineering, Stefan is hoping to invent something that makes a positive impact on the world. He also enjoys outdoor sports and is a big fan of Pixar.
