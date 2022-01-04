@@ -81,7 +81,7 @@ const IndexPage = () => (
 
                         <div className="col-4">
                                 <div className="image fit wrap">
-                                    <img src="https://static.wixstatic.com/media/149ad6_f11f8e9aa45c47778aaa5f867b7af3fd~mv2.jpg/v1/crop/x_903,y_326,w_1768,h_1736/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/helen.webp"alt="" className="image fit img"/>
+                                    <img src="https://i.imgur.com/RuWqUG7.jpg"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
                                             <p class="image fit description">Helen Cai (she/hers, 7w6, ENFP-T) is an aspiring photographer who enjoys paddleboarding, making spotify playlists, and graphic design while being a big advocate for dental hygiene!
