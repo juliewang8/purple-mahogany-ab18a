@@ -208,7 +208,7 @@ const IndexPage = () => (
 
                          <div className="col-4">
                                 <div className="image fit wrap">
-                                    <img src="https://i.imgur.com/x7BR8fv.jpg?1"alt="" className="image fit img"/>
+                                    <img src="https://i.imgur.com/ZkPFPsa.jpg"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
                                             <p class="image fit description"></p>
