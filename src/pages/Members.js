@@ -171,8 +171,7 @@ const IndexPage = () => (
                                     <img src="https://i.imgur.com/l3BpnML.jpg"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
-                                            <p class="image fit description">
-</p>
+                                            <p class="image fit description"></p>
                                         </div>
                                 </div>
 
