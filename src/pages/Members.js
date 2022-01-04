@@ -171,7 +171,7 @@ const IndexPage = () => (
                                     <img src="https://i.imgur.com/l3BpnML.jpg"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
-                                            <p class="image fit description"></p>
+                                            <p class="image fit description">June is a psychology major who loves bow tie pasta, bike rides, and finding a good serum to add to her 10-step skincare routine. Her favorite stress relievers include jamming out on the piano and dancing (terribly) in her room at 2AM</p>
                                         </div>
                                 </div>
 
