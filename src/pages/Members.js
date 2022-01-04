@@ -171,7 +171,7 @@ const IndexPage = () => (
                                     <img src="https://static.wixstatic.com/media/149ad6_977ca8610f69499e85eab44c5751a82e~mv2.jpg/v1/crop/x_0,y_20,w_2000,h_1960/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/anabelle_edited.webp"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
-                                            <p class="image fit description">Anabelle frequently surprises the group with random facts. Ask her about a topic, and she may know something about it. 
+                                            <p class="image fit description">
 </p>
                                         </div>
                                 </div>
