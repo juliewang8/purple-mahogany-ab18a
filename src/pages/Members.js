@@ -131,7 +131,7 @@ const IndexPage = () => (
                                     <img src="https://static.wixstatic.com/media/149ad6_b41308db715941ff99691885e9fd0510~mv2.png/v1/crop/x_139,y_175,w_377,h_369/fill/w_286,h_280,al_c,q_85,usm_0.66_1.00_0.01/Jeanette.webp"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
-                                            <p class="image fit description">Jeanette is a second-year Economics and Business Administration major at Northeastern University from Orange County, California. During her free time she enjoys jamming out to Taylor Swift, playing tennis, and watching Formula 1 racing.</p>
+                                            <p class="image fit description"></p>
                                         </div>
                                 </div>
 
