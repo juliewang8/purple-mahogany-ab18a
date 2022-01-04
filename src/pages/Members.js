@@ -195,7 +195,7 @@ const IndexPage = () => (
 
                         <div className="col-4">
                                 <div className="image fit wrap">
-                                    <img src="https://i.imgur.com/x7BR8fv.jpg?1"alt="" className="image fit img"/>
+                                    <img src="https://i.imgur.com/a4g0WpR.jpg"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
                                             <p class="image fit description">becks two favorite things in life are making tik tok dances with friends and his dog tinker. he is a psychology major hoping to go into social work to support and care for the lgbtq+ community! </p>
