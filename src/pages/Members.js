@@ -141,7 +141,7 @@ const IndexPage = () => (
 
                         <div className="col-4">
                                 <div className="image fit wrap">
-                                    <img src="https://i.imgur.com/x3ja2mh.jpg"alt="" className="image fit img"/>
+                                    <img src="https://i.imgur.com/Hf4wH6p.jpg"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
                                             <p class="image fit description">Outside of Mustard Seed, Amanda likes to crochet, watch crime shows, and defend the use of the Oxford comma (all at the same time).</p>
