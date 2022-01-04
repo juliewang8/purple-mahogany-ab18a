@@ -6,7 +6,7 @@ module.exports = {
   manifestBackgroundColor: '#f5cb42',
   manifestThemeColor: '#f5cb42',
   manifestDisplay: 'standalone',
-  manifestIcon: '/',
+  manifestIcon: '/img/website-icon',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'MUSTARD SEED',
   subHeading: 'Boston University\'\s premier Christian a cappella group',
