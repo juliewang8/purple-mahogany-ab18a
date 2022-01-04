@@ -38,7 +38,7 @@ const IndexPage = () => (
 
                         <div className="col-4">
                                 <div className="image fit wrap">
-                                    <img src="https://static.wixstatic.com/media/149ad6_9e03af96c0884d7391a56de6b9f5bdf3~mv2.jpg/v1/crop/x_0,y_20,w_2000,h_1960/fill/w_286,h_280,al_c,q_80,usm_0.66_1.00_0.01/jeremy_edited.webp" alt="" className="image fit img"/>
+                                    <img src="https://i.imgur.com/MQJScBb.jpg" alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
                                             <p class="image fit description">In Mustard Seed, Jeremy is known for make drum noise with mouth dum tss. He likes cashews, Pokémon games, and long walks on the beach 
