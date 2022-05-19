@@ -57,7 +57,7 @@ The parable of the <i>mustard seed</i> is a story about a tiny dose of faith acc
           <div className="content">
             <h2 className="major">We have an album!</h2>
             <p>
-              Metamorphosis is our very first album, and it is a representation of collaboration between current members and alumni as well as a testament to God's provision for our group through the pandemic.
+              Metamorphosis is our very first album, and it is a representation of collaboration between current members and alumni as well as a testament to God's provision for our group through the pandemic！
             </p>
             <a href="/Music" className="special">
               Click to listen
