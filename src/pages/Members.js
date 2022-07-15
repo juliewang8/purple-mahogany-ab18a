@@ -99,7 +99,7 @@ const IndexPage = () => (
                                     <img src="https://i.imgur.com/wXgTeJF.jpg"alt="" className="image fit img"/>
                                         <div className="image fit overlay overlay-primary">
                                             <div class="image fit title">title</div>
-                                            <p class="image fit description">Some of Julie's favorite things (besides Mustard Seed, of course): a good niche Spotify playlist, jalapeno kettle chips, and long naps!
+                                            <p class="image fit description">Some of Julie's favorite things (besides Mustard Seed, of course): a good niche Spotify playlist, jalapeno kettle chips, and long naps!!
 </p>
                                         </div>
                                 </div>
